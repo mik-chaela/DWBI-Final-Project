@@ -15,44 +15,93 @@ def load_data():
     return sales, customers, products, stores, exchange
 
 # --- PHASE 2: TRANSFORMATION ---
+def clean_currency(value):
+    """Remove $ symbol, commas, and whitespace from currency strings."""
+    if pd.isna(value):
+        return 0.0
+    if isinstance(value, str):
+        return float(value.replace('$', '').replace(',', '').strip())
+    return float(value)
+
 def transform_data(sales, customers, products, stores, exchange):
     print("Transforming data...")
 
-    # Standardize Dates
+    # Clean currency columns in products
+    products['Unit Cost USD'] = products['Unit Cost USD'].apply(clean_currency)
+    products['Unit Price USD'] = products['Unit Price USD'].apply(clean_currency)
+
+    # ========== CUSTOMER_DIM ==========
+    customer_dim = customers[['CustomerKey', 'Gender', 'Name', 'City', 'State Code', 
+                               'State', 'Zip Code', 'Country', 'Continent', 'Birthday']].copy()
+    customer_dim.columns = ['customer_key', 'gender', 'customer_name', 'city', 'state_code',
+                            'state', 'zip_code', 'country', 'continent', 'birthday']
+
+    # ========== PRODUCT_CATEGORY_DIM ==========
+    product_category_dim = products[['CategoryKey', 'Category']].drop_duplicates().reset_index(drop=True)
+    product_category_dim.columns = ['category_key', 'category']
+
+    # ========== PRODUCT_SUBCATEGORY_DIM ==========
+    product_subcategory_dim = products[['SubcategoryKey', 'Subcategory']].drop_duplicates().reset_index(drop=True)
+    product_subcategory_dim.columns = ['subcategory_key', 'subcategory']
+
+    # ========== PRODUCT_DIM ==========
+    product_dim = products[['ProductKey', 'Product Name', 'Brand', 'Color', 
+                            'CategoryKey', 'SubcategoryKey', 'Unit Cost USD', 'Unit Price USD']].copy()
+    product_dim.columns = ['product_key', 'product_name', 'brand', 'color',
+                           'category_key', 'subcategory_key', 'unit_cost_usd', 'unit_price_usd']
+
+    # ========== STORE_DIM ==========
+    store_dim = stores[['StoreKey', 'Country', 'State', 'Square Meters', 'Open Date']].copy()
+    store_dim['store_name'] = 'Store ' + store_dim['StoreKey'].astype(str)  # Generate placeholder names
+    store_dim = store_dim[['StoreKey', 'store_name', 'Country', 'State', 'Square Meters', 'Open Date']]
+    store_dim.columns = ['store_key', 'store_name', 'country', 'state', 'square_meters', 'open_date']
+
+    # ========== EXCHANGE_RATES_DIM ==========
+    exchange_rates_dim = exchange[['Date', 'Currency', 'Exchange']].copy()
+    exchange_rates_dim.columns = ['date', 'currency_code', 'exchange']
+
+    # ========== SALES_FACT ==========
+    # Standardize dates
     sales['Order Date'] = pd.to_datetime(sales['Order Date'])
     sales['Delivery Date'] = pd.to_datetime(sales['Delivery Date'])
     
-    # Create Dimensions
-    cat_dim = products[['Category']].drop_duplicates().reset_index(drop=True)
-    cat_dim['CategoryKey'] = cat_dim.index + 1
+    # Merge with products to get prices
+    sales_fact = pd.merge(
+        sales, 
+        products[['ProductKey', 'Unit Price USD', 'Unit Cost USD']], 
+        on='ProductKey', 
+        how='left'
+    )
+    
+    # Calculate derived columns
+    sales_fact['total_revenue'] = sales_fact['Quantity'] * sales_fact['Unit Price USD']
+    sales_fact['profit'] = sales_fact['Quantity'] * (sales_fact['Unit Price USD'] - sales_fact['Unit Cost USD'])
+    
+    # Select and rename columns
+    sales_fact = sales_fact[['Order Number', 'CustomerKey', 'ProductKey', 'StoreKey',
+                              'Order Date', 'Delivery Date', 'Quantity', 
+                              'Unit Cost USD', 'Unit Price USD', 'total_revenue', 'profit', 'Currency Code']]
+    sales_fact.columns = ['order_number', 'customer_key', 'product_key', 'store_key',
+                          'order_date', 'delivery_date', 'quantity',
+                          'unit_cost_usd', 'unit_price_usd', 'total_revenue', 'profit', 'currency_code']
 
-    sub_dim = products[['Subcategory', 'Category']].drop_duplicates().reset_index(drop=True)
-    sub_dim['SubcategoryKey'] = sub_dim.index + 1
-
-    # Product_Dim (Essential for Question A)
-    prod_dim = products.copy()
-
-    # Create Sales_Fact (Math for Business Questions)
-    sales_fact = pd.merge(sales, products[['ProductKey', 'Unit Price USD', 'Unit Cost USD']], on='ProductKey', how='left')
-    sales_fact['Total_Revenue_USD'] = sales_fact['Quantity'] * sales_fact['Unit Price USD']
-    sales_fact['Delivery_Time_Days'] = (sales_fact['Delivery Date'] - sales_fact['Order Date']).dt.days
-    sales_fact['Order_Year'] = sales_fact['Order Date'].dt.year
-
-    return cat_dim, sub_dim, prod_dim, sales_fact
+    return {
+        'customer_dim': customer_dim,
+        'product_category_dim': product_category_dim,
+        'product_subcategory_dim': product_subcategory_dim,
+        'product_dim': product_dim,
+        'store_dim': store_dim,
+        'exchange_rates_dim': exchange_rates_dim,
+        'sales_fact': sales_fact
+    }
 
 # --- PHASE 3: LOADING ---
-def load_to_mysql(tables_dict):
-    print("Connecting to MySQL...")
-    user = "root"
-    password = ""
-    host = "localhost"
-    port = 3307
-    db = "electronics_dw"
-    
-    engine = create_engine(f'mysql+pymysql://{user}:{password}@{host}:{port}/{db}')
+def load_to_sqlite(tables_dict):
+    print("Connecting to SQLite...")
+    db_path = os.path.join(BASE_DIR, "data", "electronics_dw.db")
+    engine = create_engine(f'sqlite:///{db_path}')
 
     for table_name, df in tables_dict.items():
-        # Using method='multi' can be more stable for large loads
         print(f"Loading {table_name}...")
         df.to_sql(table_name.lower(), engine, if_exists='replace', index=False, chunksize=1000)
     
@@ -60,13 +109,5 @@ def load_to_mysql(tables_dict):
 
 if __name__ == "__main__":
     s_raw, c_raw, p_raw, st_raw, ex_raw = load_data()
-    cat, sub, prod, fact = transform_data(s_raw, c_raw, p_raw, st_raw, ex_raw)
-    
-    to_load = {
-        'product_category_dim': cat,
-        'product_subcategory_dim': sub,
-        'product_dim': prod,
-        'sales_fact': fact,
-        'store_dim': st_raw
-    }
-    load_to_mysql(to_load)
+    tables = transform_data(s_raw, c_raw, p_raw, st_raw, ex_raw)
+    load_to_sqlite(tables)
