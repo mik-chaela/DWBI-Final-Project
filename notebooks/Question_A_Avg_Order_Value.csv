@@ -1,0 +1,2448 @@
+Store_Name,Store_Country,Order_Year,Product_Category,Avg_Order_Value,Total_Orders
+Store 1,Australia,2021,Cameras and camcorders,312.0,1
+Store 1,Australia,2021,Games and Toys,16.99,1
+Store 1,Australia,2021,"Music, Movies and Audio Books",602.99,2
+Store 1,Australia,2021,TV and Video,1549.99,2
+Store 1,Australia,2020,Audio,689.85,4
+Store 1,Australia,2020,Cameras and camcorders,2418.6,5
+Store 1,Australia,2020,Cell phones,705.54,13
+Store 1,Australia,2020,Computers,1750.36,14
+Store 1,Australia,2020,Games and Toys,72.66,13
+Store 1,Australia,2020,Home Appliances,493.0,1
+Store 1,Australia,2020,"Music, Movies and Audio Books",516.17,12
+Store 1,Australia,2020,TV and Video,1128.92,3
+Store 1,Australia,2019,Audio,308.5,10
+Store 1,Australia,2019,Cameras and camcorders,1664.84,13
+Store 1,Australia,2019,Cell phones,414.21,19
+Store 1,Australia,2019,Computers,634.87,17
+Store 1,Australia,2019,Games and Toys,58.34,11
+Store 1,Australia,2019,Home Appliances,4757.53,7
+Store 1,Australia,2019,"Music, Movies and Audio Books",270.52,18
+Store 1,Australia,2019,TV and Video,380.19,3
+Store 1,Australia,2018,Audio,320.51,9
+Store 1,Australia,2018,Cameras and camcorders,932.66,3
+Store 1,Australia,2018,Cell phones,1102.87,8
+Store 1,Australia,2018,Computers,1587.58,11
+Store 1,Australia,2018,Games and Toys,19.76,5
+Store 1,Australia,2018,Home Appliances,3312.74,5
+Store 1,Australia,2018,"Music, Movies and Audio Books",239.82,7
+Store 1,Australia,2018,TV and Video,777.24,5
+Store 1,Australia,2017,Audio,260.7,9
+Store 1,Australia,2017,Cameras and camcorders,753.8,5
+Store 1,Australia,2017,Cell phones,107.97,3
+Store 1,Australia,2017,Computers,515.28,9
+Store 1,Australia,2017,Games and Toys,14.5,2
+Store 1,Australia,2017,Home Appliances,1169.8,6
+Store 1,Australia,2017,"Music, Movies and Audio Books",456.26,9
+Store 1,Australia,2017,TV and Video,687.34,4
+Store 1,Australia,2016,Audio,160.51,6
+Store 1,Australia,2016,Cameras and camcorders,709.5,2
+Store 1,Australia,2016,Cell phones,657.5,2
+Store 1,Australia,2016,Computers,626.07,6
+Store 1,Australia,2016,Games and Toys,84.0,1
+Store 1,Australia,2016,Home Appliances,1800.32,3
+Store 1,Australia,2016,"Music, Movies and Audio Books",1204.5,2
+Store 1,Australia,2016,TV and Video,978.0,1
+Store 2,Australia,2016,Audio,530.87,4
+Store 2,Australia,2016,Cameras and camcorders,537.6,5
+Store 2,Australia,2016,Cell phones,129.0,1
+Store 2,Australia,2016,Computers,699.0,1
+Store 2,Australia,2016,Games and Toys,37.85,2
+Store 2,Australia,2016,Home Appliances,665.94,1
+Store 2,Australia,2016,"Music, Movies and Audio Books",998.3,3
+Store 2,Australia,2016,TV and Video,5799.98,1
+Store 4,Australia,2021,Cameras and camcorders,200.0,1
+Store 4,Australia,2021,Computers,1374.33,3
+Store 4,Australia,2021,"Music, Movies and Audio Books",57.88,1
+Store 4,Australia,2020,Audio,220.16,3
+Store 4,Australia,2020,Cameras and camcorders,2286.0,6
+Store 4,Australia,2020,Cell phones,464.43,14
+Store 4,Australia,2020,Computers,1666.3,5
+Store 4,Australia,2020,Games and Toys,70.62,11
+Store 4,Australia,2020,Home Appliances,1287.5,1
+Store 4,Australia,2020,"Music, Movies and Audio Books",179.65,3
+Store 4,Australia,2020,TV and Video,781.95,4
+Store 4,Australia,2019,Audio,339.55,20
+Store 4,Australia,2019,Cameras and camcorders,1867.41,14
+Store 4,Australia,2019,Cell phones,860.03,21
+Store 4,Australia,2019,Computers,1784.49,34
+Store 4,Australia,2019,Games and Toys,133.71,14
+Store 4,Australia,2019,Home Appliances,1076.61,8
+Store 4,Australia,2019,"Music, Movies and Audio Books",237.04,14
+Store 4,Australia,2019,TV and Video,5077.1,11
+Store 4,Australia,2018,Audio,474.41,14
+Store 4,Australia,2018,Cameras and camcorders,690.62,7
+Store 4,Australia,2018,Cell phones,757.43,24
+Store 4,Australia,2018,Computers,946.08,37
+Store 4,Australia,2018,Games and Toys,93.57,18
+Store 4,Australia,2018,Home Appliances,1861.3,14
+Store 4,Australia,2018,"Music, Movies and Audio Books",458.77,30
+Store 4,Australia,2018,TV and Video,1644.27,6
+Store 4,Australia,2017,Audio,528.16,8
+Store 4,Australia,2017,Cameras and camcorders,1978.67,3
+Store 4,Australia,2017,Cell phones,841.08,8
+Store 4,Australia,2017,Computers,425.77,8
+Store 4,Australia,2017,Games and Toys,75.63,2
+Store 4,Australia,2017,Home Appliances,2696.3,8
+Store 4,Australia,2017,"Music, Movies and Audio Books",294.23,9
+Store 4,Australia,2017,TV and Video,4670.06,6
+Store 4,Australia,2016,Audio,490.32,9
+Store 4,Australia,2016,Cameras and camcorders,1498.6,5
+Store 4,Australia,2016,Cell phones,591.5,2
+Store 4,Australia,2016,Computers,545.4,6
+Store 4,Australia,2016,Games and Toys,11.0,1
+Store 4,Australia,2016,Home Appliances,1453.09,7
+Store 4,Australia,2016,"Music, Movies and Audio Books",289.72,7
+Store 4,Australia,2016,TV and Video,1136.21,4
+Store 5,Australia,2021,Audio,375.2,4
+Store 5,Australia,2021,Cameras and camcorders,2214.0,2
+Store 5,Australia,2021,Cell phones,571.24,4
+Store 5,Australia,2021,Computers,388.91,7
+Store 5,Australia,2021,Games and Toys,19.92,1
+Store 5,Australia,2021,Home Appliances,635.99,1
+Store 5,Australia,2021,"Music, Movies and Audio Books",114.45,1
+Store 5,Australia,2021,TV and Video,1257.0,2
+Store 5,Australia,2020,Audio,291.21,15
+Store 5,Australia,2020,Cameras and camcorders,750.58,14
+Store 5,Australia,2020,Cell phones,583.2,23
+Store 5,Australia,2020,Computers,1508.65,29
+Store 5,Australia,2020,Games and Toys,39.3,14
+Store 5,Australia,2020,Home Appliances,1483.13,10
+Store 5,Australia,2020,"Music, Movies and Audio Books",535.19,16
+Store 5,Australia,2020,TV and Video,1954.88,10
+Store 5,Australia,2019,Audio,416.05,52
+Store 5,Australia,2019,Cameras and camcorders,1345.4,31
+Store 5,Australia,2019,Cell phones,628.97,48
+Store 5,Australia,2019,Computers,1382.5,65
+Store 5,Australia,2019,Games and Toys,119.87,48
+Store 5,Australia,2019,Home Appliances,2650.68,21
+Store 5,Australia,2019,"Music, Movies and Audio Books",329.5,49
+Store 5,Australia,2019,TV and Video,1383.08,12
+Store 5,Australia,2018,Audio,488.2,30
+Store 5,Australia,2018,Cameras and camcorders,987.6,21
+Store 5,Australia,2018,Cell phones,596.49,33
+Store 5,Australia,2018,Computers,1581.29,48
+Store 5,Australia,2018,Games and Toys,163.57,17
+Store 5,Australia,2018,Home Appliances,2092.46,29
+Store 5,Australia,2018,"Music, Movies and Audio Books",395.21,45
+Store 5,Australia,2018,TV and Video,1924.64,12
+Store 5,Australia,2017,Audio,450.03,14
+Store 5,Australia,2017,Cameras and camcorders,373.72,6
+Store 5,Australia,2017,Cell phones,768.44,9
+Store 5,Australia,2017,Computers,1272.43,15
+Store 5,Australia,2017,Games and Toys,148.12,8
+Store 5,Australia,2017,Home Appliances,1942.11,19
+Store 5,Australia,2017,"Music, Movies and Audio Books",433.2,15
+Store 5,Australia,2017,TV and Video,1139.01,9
+Store 5,Australia,2016,Audio,227.32,9
+Store 5,Australia,2016,Cameras and camcorders,1472.17,13
+Store 5,Australia,2016,Cell phones,1763.0,4
+Store 5,Australia,2016,Computers,3467.16,12
+Store 5,Australia,2016,Games and Toys,146.72,4
+Store 5,Australia,2016,Home Appliances,1906.66,17
+Store 5,Australia,2016,"Music, Movies and Audio Books",252.54,16
+Store 5,Australia,2016,TV and Video,2599.08,8
+Store 6,Australia,2021,Audio,283.85,1
+Store 6,Australia,2021,Computers,109.0,1
+Store 6,Australia,2021,"Music, Movies and Audio Books",519.98,1
+Store 6,Australia,2021,TV and Video,693.0,1
+Store 6,Australia,2020,Audio,464.31,10
+Store 6,Australia,2020,Cameras and camcorders,2070.71,10
+Store 6,Australia,2020,Cell phones,778.2,17
+Store 6,Australia,2020,Computers,1339.94,25
+Store 6,Australia,2020,Games and Toys,92.45,14
+Store 6,Australia,2020,Home Appliances,1247.5,8
+Store 6,Australia,2020,"Music, Movies and Audio Books",285.34,11
+Store 6,Australia,2020,TV and Video,2465.6,10
+Store 6,Australia,2019,Audio,289.08,31
+Store 6,Australia,2019,Cameras and camcorders,1389.57,19
+Store 6,Australia,2019,Cell phones,686.89,33
+Store 6,Australia,2019,Computers,993.76,47
+Store 6,Australia,2019,Games and Toys,87.12,33
+Store 6,Australia,2019,Home Appliances,1732.98,15
+Store 6,Australia,2019,"Music, Movies and Audio Books",266.39,33
+Store 6,Australia,2019,TV and Video,690.84,6
+Store 6,Australia,2018,Audio,847.54,10
+Store 6,Australia,2018,Cameras and camcorders,1010.0,5
+Store 6,Australia,2018,Cell phones,455.97,23
+Store 6,Australia,2018,Computers,1140.51,39
+Store 6,Australia,2018,Games and Toys,147.67,15
+Store 6,Australia,2018,Home Appliances,1886.36,11
+Store 6,Australia,2018,"Music, Movies and Audio Books",382.41,15
+Store 6,Australia,2018,TV and Video,2999.49,2
+Store 6,Australia,2017,Audio,445.92,9
+Store 6,Australia,2017,Cameras and camcorders,591.22,10
+Store 6,Australia,2017,Cell phones,727.95,9
+Store 6,Australia,2017,Computers,2042.31,16
+Store 6,Australia,2017,Games and Toys,53.38,7
+Store 6,Australia,2017,Home Appliances,2365.24,11
+Store 6,Australia,2017,"Music, Movies and Audio Books",564.75,9
+Store 6,Australia,2017,TV and Video,1572.13,9
+Store 6,Australia,2016,Audio,299.21,8
+Store 6,Australia,2016,Cameras and camcorders,1002.12,12
+Store 6,Australia,2016,Cell phones,927.44,9
+Store 6,Australia,2016,Computers,1109.95,17
+Store 6,Australia,2016,Games and Toys,121.48,8
+Store 6,Australia,2016,Home Appliances,1467.01,20
+Store 6,Australia,2016,"Music, Movies and Audio Books",177.17,6
+Store 6,Australia,2016,TV and Video,945.1,9
+Store 10,Canada,2021,Audio,473.95,3
+Store 10,Canada,2021,Cameras and camcorders,860.0,2
+Store 10,Canada,2021,Cell phones,268.5,2
+Store 10,Canada,2021,Computers,690.5,5
+Store 10,Canada,2021,Games and Toys,86.0,1
+Store 10,Canada,2021,Home Appliances,1199.96,1
+Store 10,Canada,2021,"Music, Movies and Audio Books",504.63,3
+Store 10,Canada,2020,Audio,371.0,26
+Store 10,Canada,2020,Cameras and camcorders,1093.7,22
+Store 10,Canada,2020,Cell phones,624.56,46
+Store 10,Canada,2020,Computers,1345.48,62
+Store 10,Canada,2020,Games and Toys,87.96,36
+Store 10,Canada,2020,Home Appliances,1518.44,17
+Store 10,Canada,2020,"Music, Movies and Audio Books",357.99,46
+Store 10,Canada,2020,TV and Video,820.77,6
+Store 10,Canada,2019,Audio,398.18,58
+Store 10,Canada,2019,Cameras and camcorders,1343.45,34
+Store 10,Canada,2019,Cell phones,575.08,56
+Store 10,Canada,2019,Computers,1485.47,93
+Store 10,Canada,2019,Games and Toys,85.07,72
+Store 10,Canada,2019,Home Appliances,1962.5,30
+Store 10,Canada,2019,"Music, Movies and Audio Books",352.44,63
+Store 10,Canada,2019,TV and Video,1181.9,21
+Store 10,Canada,2018,Audio,387.16,40
+Store 10,Canada,2018,Cameras and camcorders,1521.1,23
+Store 10,Canada,2018,Cell phones,448.11,39
+Store 10,Canada,2018,Computers,1323.74,62
+Store 10,Canada,2018,Games and Toys,76.18,19
+Store 10,Canada,2018,Home Appliances,1416.42,30
+Store 10,Canada,2018,"Music, Movies and Audio Books",351.84,42
+Store 10,Canada,2018,TV and Video,2351.95,14
+Store 10,Canada,2017,Audio,306.07,27
+Store 10,Canada,2017,Cameras and camcorders,1123.68,5
+Store 10,Canada,2017,Cell phones,681.17,19
+Store 10,Canada,2017,Computers,896.3,27
+Store 10,Canada,2017,Games and Toys,88.13,14
+Store 10,Canada,2017,Home Appliances,2186.55,27
+Store 10,Canada,2017,"Music, Movies and Audio Books",299.55,28
+Store 10,Canada,2017,TV and Video,1458.99,5
+Store 10,Canada,2016,Audio,400.99,14
+Store 10,Canada,2016,Cameras and camcorders,950.56,19
+Store 10,Canada,2016,Cell phones,451.48,16
+Store 10,Canada,2016,Computers,1011.37,22
+Store 10,Canada,2016,Games and Toys,105.04,14
+Store 10,Canada,2016,Home Appliances,1576.79,26
+Store 10,Canada,2016,"Music, Movies and Audio Books",375.65,21
+Store 10,Canada,2016,TV and Video,1248.23,11
+Store 8,Canada,2021,Audio,121.43,4
+Store 8,Canada,2021,Cameras and camcorders,1352.0,2
+Store 8,Canada,2021,Cell phones,791.75,8
+Store 8,Canada,2021,Computers,1594.86,8
+Store 8,Canada,2021,Games and Toys,226.67,6
+Store 8,Canada,2021,Home Appliances,2181.99,2
+Store 8,Canada,2021,"Music, Movies and Audio Books",125.65,3
+Store 8,Canada,2021,TV and Video,183.95,2
+Store 8,Canada,2020,Audio,399.58,16
+Store 8,Canada,2020,Cameras and camcorders,1112.36,18
+Store 8,Canada,2020,Cell phones,640.89,33
+Store 8,Canada,2020,Computers,1345.21,52
+Store 8,Canada,2020,Games and Toys,113.15,31
+Store 8,Canada,2020,Home Appliances,2675.25,4
+Store 8,Canada,2020,"Music, Movies and Audio Books",341.75,24
+Store 8,Canada,2020,TV and Video,2085.61,10
+Store 8,Canada,2019,Audio,437.3,45
+Store 8,Canada,2019,Cameras and camcorders,970.72,40
+Store 8,Canada,2019,Cell phones,613.35,65
+Store 8,Canada,2019,Computers,1154.08,99
+Store 8,Canada,2019,Games and Toys,48.27,55
+Store 8,Canada,2019,Home Appliances,2004.95,34
+Store 8,Canada,2019,"Music, Movies and Audio Books",381.12,51
+Store 8,Canada,2019,TV and Video,1651.23,25
+Store 8,Canada,2018,Audio,505.24,52
+Store 8,Canada,2018,Cameras and camcorders,1082.42,27
+Store 8,Canada,2018,Cell phones,592.24,51
+Store 8,Canada,2018,Computers,1175.81,91
+Store 8,Canada,2018,Games and Toys,55.53,40
+Store 8,Canada,2018,Home Appliances,2654.76,32
+Store 8,Canada,2018,"Music, Movies and Audio Books",262.58,46
+Store 8,Canada,2018,TV and Video,2124.09,15
+Store 8,Canada,2017,Audio,488.38,25
+Store 8,Canada,2017,Cameras and camcorders,1719.06,17
+Store 8,Canada,2017,Cell phones,657.03,23
+Store 8,Canada,2017,Computers,1340.62,41
+Store 8,Canada,2017,Games and Toys,133.69,16
+Store 8,Canada,2017,Home Appliances,2289.67,26
+Store 8,Canada,2017,"Music, Movies and Audio Books",418.84,36
+Store 8,Canada,2017,TV and Video,646.44,11
+Store 8,Canada,2016,Audio,557.47,22
+Store 8,Canada,2016,Cameras and camcorders,937.2,21
+Store 8,Canada,2016,Cell phones,661.08,23
+Store 8,Canada,2016,Computers,872.25,14
+Store 8,Canada,2016,Games and Toys,105.4,11
+Store 8,Canada,2016,Home Appliances,2376.11,36
+Store 8,Canada,2016,"Music, Movies and Audio Books",289.14,26
+Store 8,Canada,2016,TV and Video,1226.6,21
+Store 9,Canada,2021,Audio,562.73,4
+Store 9,Canada,2021,Cameras and camcorders,1210.59,5
+Store 9,Canada,2021,Cell phones,706.74,8
+Store 9,Canada,2021,Computers,1081.8,9
+Store 9,Canada,2021,Games and Toys,51.77,6
+Store 9,Canada,2021,Home Appliances,611.67,2
+Store 9,Canada,2021,"Music, Movies and Audio Books",567.48,4
+Store 9,Canada,2021,TV and Video,2369.94,1
+Store 9,Canada,2020,Audio,425.94,15
+Store 9,Canada,2020,Cameras and camcorders,646.31,21
+Store 9,Canada,2020,Cell phones,490.79,41
+Store 9,Canada,2020,Computers,1365.24,73
+Store 9,Canada,2020,Games and Toys,126.23,35
+Store 9,Canada,2020,Home Appliances,1487.75,17
+Store 9,Canada,2020,"Music, Movies and Audio Books",290.52,33
+Store 9,Canada,2020,TV and Video,1199.94,13
+Store 9,Canada,2019,Audio,441.52,70
+Store 9,Canada,2019,Cameras and camcorders,1334.9,47
+Store 9,Canada,2019,Cell phones,578.31,101
+Store 9,Canada,2019,Computers,1249.44,130
+Store 9,Canada,2019,Games and Toys,91.66,82
+Store 9,Canada,2019,Home Appliances,1236.32,29
+Store 9,Canada,2019,"Music, Movies and Audio Books",368.48,72
+Store 9,Canada,2019,TV and Video,2141.07,23
+Store 9,Canada,2018,Audio,408.29,36
+Store 9,Canada,2018,Cameras and camcorders,641.82,28
+Store 9,Canada,2018,Cell phones,511.33,45
+Store 9,Canada,2018,Computers,1703.18,78
+Store 9,Canada,2018,Games and Toys,65.98,41
+Store 9,Canada,2018,Home Appliances,1692.26,40
+Store 9,Canada,2018,"Music, Movies and Audio Books",311.44,37
+Store 9,Canada,2018,TV and Video,1264.22,9
+Store 9,Canada,2017,Audio,465.55,26
+Store 9,Canada,2017,Cameras and camcorders,1049.68,15
+Store 9,Canada,2017,Cell phones,538.49,38
+Store 9,Canada,2017,Computers,1127.61,46
+Store 9,Canada,2017,Games and Toys,116.53,20
+Store 9,Canada,2017,Home Appliances,1631.72,35
+Store 9,Canada,2017,"Music, Movies and Audio Books",286.41,34
+Store 9,Canada,2017,TV and Video,905.35,16
+Store 9,Canada,2016,Audio,470.29,25
+Store 9,Canada,2016,Cameras and camcorders,1274.22,26
+Store 9,Canada,2016,Cell phones,452.85,11
+Store 9,Canada,2016,Computers,1196.22,25
+Store 9,Canada,2016,Games and Toys,69.29,17
+Store 9,Canada,2016,Home Appliances,1816.31,32
+Store 9,Canada,2016,"Music, Movies and Audio Books",432.53,34
+Store 9,Canada,2016,TV and Video,2661.89,22
+Store 12,France,2021,Audio,230.77,2
+Store 12,France,2021,Cell phones,557.5,2
+Store 12,France,2021,"Music, Movies and Audio Books",876.0,1
+Store 12,France,2021,TV and Video,1276.0,1
+Store 12,France,2020,Audio,193.03,6
+Store 12,France,2020,Cameras and camcorders,1238.78,8
+Store 12,France,2020,Cell phones,396.95,8
+Store 12,France,2020,Computers,2295.56,11
+Store 12,France,2020,Games and Toys,73.37,8
+Store 12,France,2020,Home Appliances,1427.75,4
+Store 12,France,2020,"Music, Movies and Audio Books",355.65,10
+Store 12,France,2020,TV and Video,4776.6,1
+Store 12,France,2019,Audio,546.13,12
+Store 12,France,2019,Cameras and camcorders,563.88,9
+Store 12,France,2019,Cell phones,305.3,7
+Store 12,France,2019,Computers,1910.78,17
+Store 12,France,2019,Games and Toys,147.69,7
+Store 12,France,2019,Home Appliances,653.03,3
+Store 12,France,2019,"Music, Movies and Audio Books",443.09,7
+Store 12,France,2019,TV and Video,849.95,1
+Store 12,France,2018,Audio,410.41,10
+Store 12,France,2018,Cameras and camcorders,1234.67,3
+Store 12,France,2018,Cell phones,454.11,9
+Store 12,France,2018,Computers,1328.67,12
+Store 12,France,2018,Games and Toys,17.38,2
+Store 12,France,2018,Home Appliances,2556.25,4
+Store 12,France,2018,"Music, Movies and Audio Books",246.66,5
+Store 12,France,2018,TV and Video,1592.2,1
+Store 12,France,2017,Audio,375.56,4
+Store 12,France,2017,Cameras and camcorders,1308.3,1
+Store 12,France,2017,Cell phones,648.32,3
+Store 12,France,2017,Computers,837.12,5
+Store 12,France,2017,Home Appliances,666.23,7
+Store 12,France,2017,"Music, Movies and Audio Books",412.05,6
+Store 12,France,2017,TV and Video,597.0,1
+Store 12,France,2016,Audio,195.8,4
+Store 12,France,2016,Cameras and camcorders,1113.36,5
+Store 12,France,2016,Cell phones,672.5,2
+Store 12,France,2016,Computers,703.7,3
+Store 12,France,2016,Games and Toys,180.67,5
+Store 12,France,2016,Home Appliances,846.63,3
+Store 12,France,2016,"Music, Movies and Audio Books",298.8,4
+Store 13,France,2021,Cameras and camcorders,1176.0,1
+Store 13,France,2021,Cell phones,2645.0,1
+Store 13,France,2021,Games and Toys,55.11,7
+Store 13,France,2020,Audio,576.3,3
+Store 13,France,2020,Cameras and camcorders,670.73,3
+Store 13,France,2020,Cell phones,2205.0,2
+Store 13,France,2020,Computers,1571.06,8
+Store 13,France,2020,Games and Toys,86.1,5
+Store 13,France,2020,Home Appliances,515.0,1
+Store 13,France,2020,"Music, Movies and Audio Books",260.56,7
+Store 13,France,2020,TV and Video,14499.95,1
+Store 13,France,2019,Audio,382.7,4
+Store 13,France,2019,Cameras and camcorders,1468.4,5
+Store 13,France,2019,Cell phones,514.77,12
+Store 13,France,2019,Computers,1832.62,10
+Store 13,France,2019,Games and Toys,266.72,9
+Store 13,France,2019,Home Appliances,252.47,2
+Store 13,France,2019,"Music, Movies and Audio Books",369.21,9
+Store 13,France,2019,TV and Video,1331.21,5
+Store 13,France,2018,Audio,726.48,7
+Store 13,France,2018,Cell phones,59.68,3
+Store 13,France,2018,Computers,426.66,7
+Store 13,France,2018,Games and Toys,77.33,3
+Store 13,France,2018,Home Appliances,845.99,5
+Store 13,France,2018,"Music, Movies and Audio Books",488.98,3
+Store 13,France,2018,TV and Video,1274.99,3
+Store 13,France,2017,Audio,308.87,3
+Store 13,France,2017,Cameras and camcorders,1066.0,2
+Store 13,France,2017,Cell phones,588.5,6
+Store 13,France,2017,Computers,1064.07,10
+Store 13,France,2017,Games and Toys,320.0,1
+Store 13,France,2017,Home Appliances,1544.79,6
+Store 13,France,2017,"Music, Movies and Audio Books",329.14,6
+Store 13,France,2017,TV and Video,319.0,1
+Store 13,France,2016,Audio,1005.55,3
+Store 13,France,2016,Cameras and camcorders,626.5,5
+Store 13,France,2016,Cell phones,296.71,3
+Store 13,France,2016,Computers,1380.67,3
+Store 13,France,2016,Games and Toys,8.88,1
+Store 13,France,2016,Home Appliances,752.49,2
+Store 13,France,2016,"Music, Movies and Audio Books",252.39,3
+Store 13,France,2016,TV and Video,633.0,3
+Store 14,France,2021,Cameras and camcorders,198.0,1
+Store 14,France,2021,Games and Toys,101.08,1
+Store 14,France,2021,"Music, Movies and Audio Books",17.99,1
+Store 14,France,2020,Audio,199.95,1
+Store 14,France,2020,Cameras and camcorders,486.5,4
+Store 14,France,2020,Cell phones,161.61,3
+Store 14,France,2020,Computers,2068.2,2
+Store 14,France,2020,Games and Toys,52.26,6
+Store 14,France,2020,Home Appliances,877.5,1
+Store 14,France,2020,"Music, Movies and Audio Books",438.0,1
+Store 14,France,2020,TV and Video,2839.74,4
+Store 14,France,2019,Audio,461.16,4
+Store 14,France,2019,Cameras and camcorders,943.03,6
+Store 14,France,2019,Cell phones,444.05,7
+Store 14,France,2019,Computers,2086.99,4
+Store 14,France,2019,Games and Toys,194.66,3
+Store 14,France,2019,Home Appliances,2037.87,2
+Store 14,France,2019,"Music, Movies and Audio Books",110.7,5
+Store 14,France,2019,TV and Video,761.04,2
+Store 14,France,2018,Audio,270.2,4
+Store 14,France,2018,Cell phones,451.36,4
+Store 14,France,2018,Computers,868.25,4
+Store 14,France,2018,Games and Toys,145.41,4
+Store 14,France,2018,Home Appliances,703.16,5
+Store 14,France,2018,"Music, Movies and Audio Books",712.4,6
+Store 14,France,2017,Audio,318.9,2
+Store 14,France,2017,Cameras and camcorders,422.0,1
+Store 14,France,2017,Cell phones,173.41,4
+Store 14,France,2017,Computers,3889.85,3
+Store 14,France,2017,Games and Toys,162.26,5
+Store 14,France,2017,Home Appliances,1890.83,3
+Store 14,France,2016,Audio,303.65,3
+Store 14,France,2016,Cameras and camcorders,936.0,1
+Store 14,France,2016,Cell phones,291.02,4
+Store 14,France,2016,Computers,3025.12,5
+Store 14,France,2016,Games and Toys,54.33,3
+Store 14,France,2016,Home Appliances,1411.24,2
+Store 14,France,2016,"Music, Movies and Audio Books",363.44,3
+Store 14,France,2016,TV and Video,1548.5,2
+Store 15,France,2021,Audio,592.0,1
+Store 15,France,2021,Cameras and camcorders,3552.0,1
+Store 15,France,2021,Cell phones,1416.5,2
+Store 15,France,2021,Computers,584.0,3
+Store 15,France,2021,Games and Toys,50.67,1
+Store 15,France,2021,"Music, Movies and Audio Books",319.98,1
+Store 15,France,2020,Audio,598.46,1
+Store 15,France,2020,Cameras and camcorders,269.0,2
+Store 15,France,2020,Cell phones,432.23,8
+Store 15,France,2020,Computers,1865.32,16
+Store 15,France,2020,Games and Toys,205.59,5
+Store 15,France,2020,Home Appliances,356.49,2
+Store 15,France,2020,"Music, Movies and Audio Books",196.58,6
+Store 15,France,2020,TV and Video,1536.83,3
+Store 15,France,2019,Audio,334.99,4
+Store 15,France,2019,Cameras and camcorders,1210.88,9
+Store 15,France,2019,Cell phones,958.86,12
+Store 15,France,2019,Computers,1424.32,24
+Store 15,France,2019,Games and Toys,45.59,10
+Store 15,France,2019,Home Appliances,3004.88,4
+Store 15,France,2019,"Music, Movies and Audio Books",270.95,9
+Store 15,France,2019,TV and Video,563.09,4
+Store 15,France,2018,Audio,208.17,5
+Store 15,France,2018,Cameras and camcorders,707.0,2
+Store 15,France,2018,Cell phones,184.27,5
+Store 15,France,2018,Computers,1002.69,18
+Store 15,France,2018,Games and Toys,91.0,2
+Store 15,France,2018,Home Appliances,1249.72,4
+Store 15,France,2018,"Music, Movies and Audio Books",184.2,6
+Store 15,France,2018,TV and Video,1294.92,2
+Store 15,France,2017,Audio,643.09,3
+Store 15,France,2017,Cameras and camcorders,351.33,3
+Store 15,France,2017,Cell phones,605.53,12
+Store 15,France,2017,Computers,743.8,5
+Store 15,France,2017,Games and Toys,40.14,5
+Store 15,France,2017,Home Appliances,928.25,2
+Store 15,France,2017,"Music, Movies and Audio Books",158.41,7
+Store 15,France,2017,TV and Video,2996.63,5
+Store 15,France,2016,Audio,115.0,1
+Store 15,France,2016,Cameras and camcorders,1376.67,3
+Store 15,France,2016,Cell phones,313.59,4
+Store 15,France,2016,Computers,499.9,1
+Store 15,France,2016,Games and Toys,53.15,3
+Store 15,France,2016,Home Appliances,1158.99,3
+Store 15,France,2016,"Music, Movies and Audio Books",593.28,2
+Store 15,France,2016,TV and Video,1428.69,4
+Store 16,France,2020,Audio,256.99,2
+Store 16,France,2020,Cameras and camcorders,953.44,9
+Store 16,France,2020,Cell phones,618.35,11
+Store 16,France,2020,Computers,1006.87,10
+Store 16,France,2020,Games and Toys,70.61,6
+Store 16,France,2020,Home Appliances,4589.85,4
+Store 16,France,2020,"Music, Movies and Audio Books",409.85,14
+Store 16,France,2020,TV and Video,1028.73,4
+Store 16,France,2019,Audio,502.52,3
+Store 16,France,2019,Cameras and camcorders,917.66,4
+Store 16,France,2019,Cell phones,522.56,16
+Store 16,France,2019,Computers,1402.53,19
+Store 16,France,2019,Games and Toys,104.86,13
+Store 16,France,2019,Home Appliances,2317.05,7
+Store 16,France,2019,"Music, Movies and Audio Books",385.89,8
+Store 16,France,2019,TV and Video,1800.0,1
+Store 16,France,2018,Audio,1047.18,5
+Store 16,France,2018,Cameras and camcorders,1329.4,5
+Store 16,France,2018,Cell phones,447.62,5
+Store 16,France,2018,Computers,811.58,4
+Store 16,France,2018,Games and Toys,56.22,4
+Store 16,France,2018,Home Appliances,4021.11,4
+Store 16,France,2018,"Music, Movies and Audio Books",479.46,5
+Store 16,France,2017,Audio,237.9,5
+Store 16,France,2017,Cameras and camcorders,601.75,4
+Store 16,France,2017,Computers,795.2,4
+Store 16,France,2017,Games and Toys,47.46,2
+Store 16,France,2017,Home Appliances,1206.0,4
+Store 16,France,2017,"Music, Movies and Audio Books",337.87,3
+Store 16,France,2017,TV and Video,258.0,1
+Store 16,France,2016,Audio,243.97,3
+Store 16,France,2016,Cameras and camcorders,1475.94,8
+Store 16,France,2016,Cell phones,277.99,2
+Store 16,France,2016,Computers,4193.0,1
+Store 16,France,2016,Home Appliances,2277.76,5
+Store 16,France,2016,"Music, Movies and Audio Books",471.82,8
+Store 16,France,2016,TV and Video,258.0,1
+Store 17,France,2021,Cameras and camcorders,1668.0,1
+Store 17,France,2021,Cell phones,768.0,1
+Store 17,France,2021,Computers,1517.0,2
+Store 17,France,2021,Games and Toys,32.0,1
+Store 17,France,2021,"Music, Movies and Audio Books",40.39,2
+Store 17,France,2020,Audio,250.56,3
+Store 17,France,2020,Cameras and camcorders,5563.33,3
+Store 17,France,2020,Cell phones,652.81,11
+Store 17,France,2020,Computers,921.74,8
+Store 17,France,2020,Games and Toys,145.99,2
+Store 17,France,2020,Home Appliances,877.5,1
+Store 17,France,2020,"Music, Movies and Audio Books",32.77,2
+Store 17,France,2020,TV and Video,336.32,3
+Store 17,France,2019,Audio,465.47,8
+Store 17,France,2019,Cameras and camcorders,347.65,9
+Store 17,France,2019,Cell phones,553.07,14
+Store 17,France,2019,Computers,858.06,13
+Store 17,France,2019,Games and Toys,101.86,14
+Store 17,France,2019,Home Appliances,1076.68,5
+Store 17,France,2019,"Music, Movies and Audio Books",376.65,15
+Store 17,France,2019,TV and Video,301.17,3
+Store 17,France,2018,Audio,167.58,5
+Store 17,France,2018,Cameras and camcorders,681.75,4
+Store 17,France,2018,Cell phones,217.65,6
+Store 17,France,2018,Computers,1298.16,7
+Store 17,France,2018,Games and Toys,40.94,4
+Store 17,France,2018,Home Appliances,3477.35,7
+Store 17,France,2018,"Music, Movies and Audio Books",102.45,8
+Store 17,France,2018,TV and Video,1876.4,2
+Store 17,France,2017,Audio,612.3,3
+Store 17,France,2017,Cameras and camcorders,1287.77,6
+Store 17,France,2017,Cell phones,582.99,3
+Store 17,France,2017,Computers,1849.98,5
+Store 17,France,2017,Games and Toys,180.33,2
+Store 17,France,2017,Home Appliances,782.96,5
+Store 17,France,2017,"Music, Movies and Audio Books",655.83,5
+Store 17,France,2017,TV and Video,436.0,1
+Store 17,France,2016,Audio,171.6,2
+Store 17,France,2016,Games and Toys,32.0,1
+Store 17,France,2016,Home Appliances,1152.99,5
+Store 17,France,2016,"Music, Movies and Audio Books",155.92,6
+Store 17,France,2016,TV and Video,1003.48,2
+Store 18,France,2021,Cell phones,1256.5,2
+Store 18,France,2021,Computers,704.85,2
+Store 18,France,2021,TV and Video,169.99,1
+Store 18,France,2020,Cameras and camcorders,350.85,4
+Store 18,France,2020,Cell phones,328.69,7
+Store 18,France,2020,Computers,731.18,11
+Store 18,France,2020,Games and Toys,276.7,2
+Store 18,France,2020,Home Appliances,839.96,2
+Store 18,France,2020,"Music, Movies and Audio Books",212.32,3
+Store 18,France,2020,TV and Video,2352.65,3
+Store 18,France,2019,Audio,732.04,6
+Store 18,France,2019,Cameras and camcorders,2335.33,3
+Store 18,France,2019,Cell phones,1050.77,9
+Store 18,France,2019,Computers,2353.1,17
+Store 18,France,2019,Games and Toys,66.77,9
+Store 18,France,2019,Home Appliances,3135.99,3
+Store 18,France,2019,"Music, Movies and Audio Books",601.67,10
+Store 18,France,2019,TV and Video,2145.52,6
+Store 18,France,2018,Audio,715.35,7
+Store 18,France,2018,Cell phones,923.21,9
+Store 18,France,2018,Computers,2001.52,10
+Store 18,France,2018,Games and Toys,920.4,2
+Store 18,France,2018,Home Appliances,1987.15,6
+Store 18,France,2018,"Music, Movies and Audio Books",107.84,3
+Store 18,France,2017,Audio,362.0,1
+Store 18,France,2017,Cameras and camcorders,2249.5,2
+Store 18,France,2017,Cell phones,530.33,3
+Store 18,France,2017,Computers,2390.24,6
+Store 18,France,2017,Games and Toys,45.13,3
+Store 18,France,2017,Home Appliances,1946.22,2
+Store 18,France,2017,"Music, Movies and Audio Books",324.58,5
+Store 18,France,2017,TV and Video,309.5,2
+Store 18,France,2016,Audio,425.6,3
+Store 18,France,2016,Cameras and camcorders,3298.83,3
+Store 18,France,2016,Cell phones,380.0,1
+Store 18,France,2016,Computers,745.81,10
+Store 18,France,2016,Games and Toys,77.12,2
+Store 18,France,2016,Home Appliances,1750.78,6
+Store 18,France,2016,"Music, Movies and Audio Books",351.97,5
+Store 18,France,2016,TV and Video,1547.34,3
+Store 19,Germany,2021,Cameras and camcorders,966.0,3
+Store 19,Germany,2021,Cell phones,329.98,2
+Store 19,Germany,2021,Computers,3665.0,4
+Store 19,Germany,2021,Games and Toys,15.15,3
+Store 19,Germany,2021,"Music, Movies and Audio Books",837.98,2
+Store 19,Germany,2020,Audio,891.12,6
+Store 19,Germany,2020,Cameras and camcorders,209.79,5
+Store 19,Germany,2020,Cell phones,626.66,12
+Store 19,Germany,2020,Computers,1845.6,18
+Store 19,Germany,2020,Games and Toys,88.71,12
+Store 19,Germany,2020,Home Appliances,545.79,3
+Store 19,Germany,2020,"Music, Movies and Audio Books",498.82,8
+Store 19,Germany,2020,TV and Video,1310.99,7
+Store 19,Germany,2019,Audio,335.81,29
+Store 19,Germany,2019,Cameras and camcorders,850.85,23
+Store 19,Germany,2019,Cell phones,547.87,42
+Store 19,Germany,2019,Computers,1413.42,46
+Store 19,Germany,2019,Games and Toys,125.49,24
+Store 19,Germany,2019,Home Appliances,2582.64,11
+Store 19,Germany,2019,"Music, Movies and Audio Books",288.12,36
+Store 19,Germany,2019,TV and Video,1686.5,2
+Store 19,Germany,2018,Audio,394.35,22
+Store 19,Germany,2018,Cameras and camcorders,1120.22,13
+Store 19,Germany,2018,Cell phones,707.42,23
+Store 19,Germany,2018,Computers,1317.01,39
+Store 19,Germany,2018,Games and Toys,75.53,15
+Store 19,Germany,2018,Home Appliances,740.17,14
+Store 19,Germany,2018,"Music, Movies and Audio Books",536.78,26
+Store 19,Germany,2018,TV and Video,2652.38,15
+Store 19,Germany,2017,Audio,699.22,11
+Store 19,Germany,2017,Cameras and camcorders,903.57,7
+Store 19,Germany,2017,Cell phones,242.11,13
+Store 19,Germany,2017,Computers,852.59,18
+Store 19,Germany,2017,Games and Toys,67.93,3
+Store 19,Germany,2017,Home Appliances,1539.15,14
+Store 19,Germany,2017,"Music, Movies and Audio Books",306.48,14
+Store 19,Germany,2017,TV and Video,2455.74,4
+Store 19,Germany,2016,Audio,392.27,6
+Store 19,Germany,2016,Cameras and camcorders,2999.86,7
+Store 19,Germany,2016,Cell phones,435.64,8
+Store 19,Germany,2016,Computers,2165.31,14
+Store 19,Germany,2016,Games and Toys,87.64,8
+Store 19,Germany,2016,Home Appliances,1438.76,18
+Store 19,Germany,2016,"Music, Movies and Audio Books",238.82,14
+Store 19,Germany,2016,TV and Video,1776.97,11
+Store 20,Germany,2019,Audio,352.19,14
+Store 20,Germany,2019,Cameras and camcorders,695.61,11
+Store 20,Germany,2019,Cell phones,506.11,23
+Store 20,Germany,2019,Computers,2223.24,20
+Store 20,Germany,2019,Games and Toys,105.67,15
+Store 20,Germany,2019,Home Appliances,1298.98,7
+Store 20,Germany,2019,"Music, Movies and Audio Books",384.26,17
+Store 20,Germany,2019,TV and Video,852.22,4
+Store 20,Germany,2018,Audio,431.23,20
+Store 20,Germany,2018,Cameras and camcorders,768.1,17
+Store 20,Germany,2018,Cell phones,474.64,26
+Store 20,Germany,2018,Computers,1456.6,42
+Store 20,Germany,2018,Games and Toys,92.86,8
+Store 20,Germany,2018,Home Appliances,1738.52,17
+Store 20,Germany,2018,"Music, Movies and Audio Books",417.09,25
+Store 20,Germany,2018,TV and Video,3204.84,11
+Store 20,Germany,2017,Audio,589.65,13
+Store 20,Germany,2017,Cameras and camcorders,1650.43,7
+Store 20,Germany,2017,Cell phones,390.05,14
+Store 20,Germany,2017,Computers,935.53,19
+Store 20,Germany,2017,Games and Toys,39.4,8
+Store 20,Germany,2017,Home Appliances,1318.35,18
+Store 20,Germany,2017,"Music, Movies and Audio Books",196.72,11
+Store 20,Germany,2017,TV and Video,1770.24,5
+Store 20,Germany,2016,Audio,667.74,12
+Store 20,Germany,2016,Cameras and camcorders,377.99,3
+Store 20,Germany,2016,Cell phones,303.99,8
+Store 20,Germany,2016,Computers,1596.95,11
+Store 20,Germany,2016,Games and Toys,81.98,8
+Store 20,Germany,2016,Home Appliances,1025.01,15
+Store 20,Germany,2016,"Music, Movies and Audio Books",257.19,10
+Store 20,Germany,2016,TV and Video,711.49,4
+Store 21,Germany,2021,Audio,199.9,1
+Store 21,Germany,2021,Cameras and camcorders,376.0,1
+Store 21,Germany,2021,Computers,3063.6,1
+Store 21,Germany,2021,Games and Toys,72.45,1
+Store 21,Germany,2021,"Music, Movies and Audio Books",719.96,2
+Store 21,Germany,2020,Audio,305.9,7
+Store 21,Germany,2020,Cameras and camcorders,814.79,9
+Store 21,Germany,2020,Cell phones,483.21,20
+Store 21,Germany,2020,Computers,1917.87,17
+Store 21,Germany,2020,Games and Toys,51.61,9
+Store 21,Germany,2020,Home Appliances,1889.95,2
+Store 21,Germany,2020,"Music, Movies and Audio Books",473.52,17
+Store 21,Germany,2020,TV and Video,1671.24,9
+Store 21,Germany,2019,Audio,505.49,22
+Store 21,Germany,2019,Cameras and camcorders,1038.87,16
+Store 21,Germany,2019,Cell phones,836.64,33
+Store 21,Germany,2019,Computers,1795.87,60
+Store 21,Germany,2019,Games and Toys,125.15,31
+Store 21,Germany,2019,Home Appliances,1777.26,11
+Store 21,Germany,2019,"Music, Movies and Audio Books",416.17,30
+Store 21,Germany,2019,TV and Video,3710.16,10
+Store 21,Germany,2018,Audio,433.95,14
+Store 21,Germany,2018,Cameras and camcorders,1821.66,5
+Store 21,Germany,2018,Cell phones,593.63,14
+Store 21,Germany,2018,Computers,1102.84,18
+Store 21,Germany,2018,Games and Toys,132.0,5
+Store 21,Germany,2018,Home Appliances,1917.99,12
+Store 21,Germany,2018,"Music, Movies and Audio Books",170.55,8
+Store 21,Germany,2018,TV and Video,2256.47,6
+Store 22,Germany,2021,Audio,503.99,2
+Store 22,Germany,2021,Cell phones,218.48,2
+Store 22,Germany,2021,Computers,6885.0,1
+Store 22,Germany,2021,"Music, Movies and Audio Books",509.97,2
+Store 22,Germany,2020,Audio,288.17,14
+Store 22,Germany,2020,Cameras and camcorders,381.07,12
+Store 22,Germany,2020,Cell phones,655.74,20
+Store 22,Germany,2020,Computers,906.65,28
+Store 22,Germany,2020,Games and Toys,94.56,13
+Store 22,Germany,2020,Home Appliances,1415.6,10
+Store 22,Germany,2020,"Music, Movies and Audio Books",562.95,12
+Store 22,Germany,2020,TV and Video,1372.2,6
+Store 22,Germany,2019,Audio,385.82,31
+Store 22,Germany,2019,Cameras and camcorders,822.21,28
+Store 22,Germany,2019,Cell phones,642.47,76
+Store 22,Germany,2019,Computers,1446.01,81
+Store 22,Germany,2019,Games and Toys,77.88,54
+Store 22,Germany,2019,Home Appliances,1658.3,16
+Store 22,Germany,2019,"Music, Movies and Audio Books",314.26,43
+Store 22,Germany,2019,TV and Video,2194.39,12
+Store 22,Germany,2018,Audio,367.33,17
+Store 22,Germany,2018,Cameras and camcorders,1493.18,18
+Store 22,Germany,2018,Cell phones,544.12,31
+Store 22,Germany,2018,Computers,1321.81,35
+Store 22,Germany,2018,Games and Toys,90.1,19
+Store 22,Germany,2018,Home Appliances,1615.1,20
+Store 22,Germany,2018,"Music, Movies and Audio Books",332.12,27
+Store 22,Germany,2018,TV and Video,2591.98,6
+Store 22,Germany,2017,Audio,400.36,12
+Store 22,Germany,2017,Cameras and camcorders,1228.4,11
+Store 22,Germany,2017,Cell phones,880.53,15
+Store 22,Germany,2017,Computers,1276.22,17
+Store 22,Germany,2017,Games and Toys,79.08,6
+Store 22,Germany,2017,Home Appliances,1837.14,10
+Store 22,Germany,2017,"Music, Movies and Audio Books",361.3,13
+Store 22,Germany,2017,TV and Video,1375.99,3
+Store 22,Germany,2016,Audio,355.98,10
+Store 22,Germany,2016,Cameras and camcorders,1325.47,8
+Store 22,Germany,2016,Cell phones,607.33,10
+Store 22,Germany,2016,Computers,638.6,10
+Store 22,Germany,2016,Games and Toys,162.14,9
+Store 22,Germany,2016,Home Appliances,1510.87,13
+Store 22,Germany,2016,"Music, Movies and Audio Books",330.07,14
+Store 22,Germany,2016,TV and Video,2203.27,3
+Store 23,Germany,2021,Computers,4548.0,1
+Store 23,Germany,2021,Games and Toys,64.0,1
+Store 23,Germany,2021,Home Appliances,99.99,1
+Store 23,Germany,2020,Audio,553.01,8
+Store 23,Germany,2020,Cameras and camcorders,1508.83,10
+Store 23,Germany,2020,Cell phones,611.31,21
+Store 23,Germany,2020,Computers,1807.07,24
+Store 23,Germany,2020,Games and Toys,58.49,19
+Store 23,Germany,2020,Home Appliances,1506.35,8
+Store 23,Germany,2020,"Music, Movies and Audio Books",226.17,16
+Store 23,Germany,2020,TV and Video,1674.81,6
+Store 23,Germany,2019,Audio,471.59,30
+Store 23,Germany,2019,Cameras and camcorders,1233.75,17
+Store 23,Germany,2019,Cell phones,471.33,35
+Store 23,Germany,2019,Computers,1599.12,44
+Store 23,Germany,2019,Games and Toys,93.47,22
+Store 23,Germany,2019,Home Appliances,2529.36,13
+Store 23,Germany,2019,"Music, Movies and Audio Books",339.6,37
+Store 23,Germany,2019,TV and Video,1638.58,13
+Store 23,Germany,2018,Audio,547.03,20
+Store 23,Germany,2018,Cameras and camcorders,679.33,20
+Store 23,Germany,2018,Cell phones,621.43,30
+Store 23,Germany,2018,Computers,1842.51,33
+Store 23,Germany,2018,Games and Toys,105.66,21
+Store 23,Germany,2018,Home Appliances,1782.42,25
+Store 23,Germany,2018,"Music, Movies and Audio Books",372.81,30
+Store 23,Germany,2018,TV and Video,989.07,10
+Store 23,Germany,2017,Audio,344.56,10
+Store 23,Germany,2017,Cameras and camcorders,1067.15,6
+Store 23,Germany,2017,Cell phones,490.45,8
+Store 23,Germany,2017,Computers,1361.08,23
+Store 23,Germany,2017,Games and Toys,51.6,2
+Store 23,Germany,2017,Home Appliances,1821.77,16
+Store 23,Germany,2017,"Music, Movies and Audio Books",333.52,9
+Store 23,Germany,2017,TV and Video,634.46,5
+Store 23,Germany,2016,Audio,502.21,11
+Store 23,Germany,2016,Cameras and camcorders,671.62,7
+Store 23,Germany,2016,Cell phones,168.8,7
+Store 23,Germany,2016,Computers,1631.61,13
+Store 23,Germany,2016,Games and Toys,126.79,6
+Store 23,Germany,2016,Home Appliances,1285.57,11
+Store 23,Germany,2016,"Music, Movies and Audio Books",454.78,15
+Store 23,Germany,2016,TV and Video,1032.38,10
+Store 24,Germany,2021,Audio,302.92,2
+Store 24,Germany,2021,Cameras and camcorders,3560.0,1
+Store 24,Germany,2021,Cell phones,633.0,2
+Store 24,Germany,2021,Computers,225.23,3
+Store 24,Germany,2021,Games and Toys,6.88,1
+Store 24,Germany,2021,"Music, Movies and Audio Books",669.99,4
+Store 24,Germany,2020,Audio,463.97,15
+Store 24,Germany,2020,Cameras and camcorders,1702.24,12
+Store 24,Germany,2020,Cell phones,445.66,21
+Store 24,Germany,2020,Computers,1685.89,29
+Store 24,Germany,2020,Games and Toys,55.95,18
+Store 24,Germany,2020,Home Appliances,1830.18,5
+Store 24,Germany,2020,"Music, Movies and Audio Books",461.99,19
+Store 24,Germany,2020,TV and Video,1345.58,8
+Store 24,Germany,2019,Audio,500.79,26
+Store 24,Germany,2019,Cameras and camcorders,1013.73,23
+Store 24,Germany,2019,Cell phones,424.05,42
+Store 24,Germany,2019,Computers,1045.95,43
+Store 24,Germany,2019,Games and Toys,125.8,26
+Store 24,Germany,2019,Home Appliances,3221.17,16
+Store 24,Germany,2019,"Music, Movies and Audio Books",372.38,40
+Store 24,Germany,2019,TV and Video,1613.41,10
+Store 24,Germany,2018,Audio,414.09,23
+Store 24,Germany,2018,Cameras and camcorders,818.13,12
+Store 24,Germany,2018,Cell phones,716.1,28
+Store 24,Germany,2018,Computers,1910.54,31
+Store 24,Germany,2018,Games and Toys,67.59,15
+Store 24,Germany,2018,Home Appliances,1110.44,20
+Store 24,Germany,2018,"Music, Movies and Audio Books",350.1,30
+Store 24,Germany,2018,TV and Video,1109.66,7
+Store 24,Germany,2017,Audio,673.13,10
+Store 24,Germany,2017,Cameras and camcorders,1000.9,5
+Store 24,Germany,2017,Cell phones,444.28,6
+Store 24,Germany,2017,Computers,1106.35,15
+Store 24,Germany,2017,Games and Toys,149.65,9
+Store 24,Germany,2017,Home Appliances,1535.87,10
+Store 24,Germany,2017,"Music, Movies and Audio Books",233.53,10
+Store 24,Germany,2017,TV and Video,1181.32,3
+Store 24,Germany,2016,Audio,347.66,20
+Store 24,Germany,2016,Cameras and camcorders,414.56,10
+Store 24,Germany,2016,Cell phones,1045.17,11
+Store 24,Germany,2016,Computers,866.52,12
+Store 24,Germany,2016,Games and Toys,368.74,7
+Store 24,Germany,2016,Home Appliances,3416.68,17
+Store 24,Germany,2016,"Music, Movies and Audio Books",459.83,14
+Store 24,Germany,2016,TV and Video,5889.76,12
+Store 26,Germany,2021,Audio,95.9,1
+Store 26,Germany,2021,Cell phones,2130.0,3
+Store 26,Germany,2021,Computers,1757.0,2
+Store 26,Germany,2021,Games and Toys,53.75,2
+Store 26,Germany,2021,"Music, Movies and Audio Books",619.97,2
+Store 26,Germany,2021,TV and Video,1049.85,1
+Store 26,Germany,2020,Audio,487.58,12
+Store 26,Germany,2020,Cameras and camcorders,998.78,7
+Store 26,Germany,2020,Cell phones,405.95,12
+Store 26,Germany,2020,Computers,2077.14,20
+Store 26,Germany,2020,Games and Toys,102.64,14
+Store 26,Germany,2020,Home Appliances,4661.0,5
+Store 26,Germany,2020,"Music, Movies and Audio Books",725.3,17
+Store 26,Germany,2020,TV and Video,444.0,2
+Store 26,Germany,2019,Audio,413.08,21
+Store 26,Germany,2019,Cameras and camcorders,868.12,19
+Store 26,Germany,2019,Cell phones,542.79,31
+Store 26,Germany,2019,Computers,1565.81,56
+Store 26,Germany,2019,Games and Toys,120.69,31
+Store 26,Germany,2019,Home Appliances,1611.68,5
+Store 26,Germany,2019,"Music, Movies and Audio Books",337.6,23
+Store 26,Germany,2019,TV and Video,2323.87,9
+Store 27,Germany,2020,Audio,509.55,10
+Store 27,Germany,2020,Cameras and camcorders,375.4,7
+Store 27,Germany,2020,Cell phones,465.47,24
+Store 27,Germany,2020,Computers,1487.25,29
+Store 27,Germany,2020,Games and Toys,67.87,11
+Store 27,Germany,2020,Home Appliances,564.58,5
+Store 27,Germany,2020,"Music, Movies and Audio Books",347.22,21
+Store 27,Germany,2020,TV and Video,2573.4,6
+Store 27,Germany,2019,Audio,607.8,31
+Store 27,Germany,2019,Cameras and camcorders,1660.53,23
+Store 27,Germany,2019,Cell phones,670.92,40
+Store 27,Germany,2019,Computers,1135.98,68
+Store 27,Germany,2019,Games and Toys,80.44,40
+Store 27,Germany,2019,Home Appliances,1686.39,16
+Store 27,Germany,2019,"Music, Movies and Audio Books",403.26,45
+Store 27,Germany,2019,TV and Video,552.8,9
+Store 27,Germany,2018,Audio,442.54,19
+Store 27,Germany,2018,Cameras and camcorders,2126.38,16
+Store 27,Germany,2018,Cell phones,455.0,23
+Store 27,Germany,2018,Computers,1298.93,24
+Store 27,Germany,2018,Games and Toys,115.4,18
+Store 27,Germany,2018,Home Appliances,2593.65,17
+Store 27,Germany,2018,"Music, Movies and Audio Books",403.37,22
+Store 27,Germany,2018,TV and Video,465.74,4
+Store 27,Germany,2017,Audio,429.63,14
+Store 27,Germany,2017,Cameras and camcorders,979.19,5
+Store 27,Germany,2017,Cell phones,356.39,8
+Store 27,Germany,2017,Computers,1065.19,25
+Store 27,Germany,2017,Games and Toys,105.24,5
+Store 27,Germany,2017,Home Appliances,2498.38,19
+Store 27,Germany,2017,"Music, Movies and Audio Books",195.35,11
+Store 27,Germany,2017,TV and Video,630.72,5
+Store 27,Germany,2016,Audio,418.65,15
+Store 27,Germany,2016,Cameras and camcorders,527.7,8
+Store 27,Germany,2016,Cell phones,403.94,8
+Store 27,Germany,2016,Computers,952.93,16
+Store 27,Germany,2016,Games and Toys,43.13,13
+Store 27,Germany,2016,Home Appliances,4547.22,14
+Store 27,Germany,2016,"Music, Movies and Audio Books",292.95,15
+Store 27,Germany,2016,TV and Video,1870.72,12
+Store 28,Italy,2017,Audio,430.37,18
+Store 28,Italy,2017,Cameras and camcorders,1242.77,6
+Store 28,Italy,2017,Cell phones,621.14,10
+Store 28,Italy,2017,Computers,1041.2,12
+Store 28,Italy,2017,Games and Toys,125.47,6
+Store 28,Italy,2017,Home Appliances,1500.55,20
+Store 28,Italy,2017,"Music, Movies and Audio Books",141.61,11
+Store 28,Italy,2017,TV and Video,783.58,8
+Store 28,Italy,2016,Audio,410.45,16
+Store 28,Italy,2016,Cameras and camcorders,1592.03,15
+Store 28,Italy,2016,Cell phones,582.49,12
+Store 28,Italy,2016,Computers,1094.63,15
+Store 28,Italy,2016,Games and Toys,20.97,1
+Store 28,Italy,2016,Home Appliances,1451.34,23
+Store 28,Italy,2016,"Music, Movies and Audio Books",274.3,26
+Store 28,Italy,2016,TV and Video,1347.96,15
+Store 29,Italy,2021,Cameras and camcorders,1881.0,1
+Store 29,Italy,2021,Cell phones,937.21,4
+Store 29,Italy,2021,Computers,422.97,3
+Store 29,Italy,2021,Games and Toys,136.18,3
+Store 29,Italy,2021,Home Appliances,279.98,1
+Store 29,Italy,2021,"Music, Movies and Audio Books",118.64,4
+Store 29,Italy,2021,TV and Video,286.8,1
+Store 29,Italy,2020,Audio,439.33,12
+Store 29,Italy,2020,Cameras and camcorders,819.86,10
+Store 29,Italy,2020,Cell phones,539.51,35
+Store 29,Italy,2020,Computers,1449.72,38
+Store 29,Italy,2020,Games and Toys,52.99,20
+Store 29,Italy,2020,Home Appliances,2305.88,5
+Store 29,Italy,2020,"Music, Movies and Audio Books",399.07,21
+Store 29,Italy,2020,TV and Video,1348.3,10
+Store 29,Italy,2019,Audio,495.83,36
+Store 29,Italy,2019,Cameras and camcorders,1178.56,33
+Store 29,Italy,2019,Cell phones,504.78,67
+Store 29,Italy,2019,Computers,1528.07,90
+Store 29,Italy,2019,Games and Toys,77.75,43
+Store 29,Italy,2019,Home Appliances,1092.38,17
+Store 29,Italy,2019,"Music, Movies and Audio Books",321.48,37
+Store 29,Italy,2019,TV and Video,1104.37,15
+Store 29,Italy,2018,Audio,349.64,21
+Store 29,Italy,2018,Cameras and camcorders,931.95,11
+Store 29,Italy,2018,Cell phones,623.14,45
+Store 29,Italy,2018,Computers,1407.72,68
+Store 29,Italy,2018,Games and Toys,141.05,27
+Store 29,Italy,2018,Home Appliances,1671.48,26
+Store 29,Italy,2018,"Music, Movies and Audio Books",436.15,32
+Store 29,Italy,2018,TV and Video,1380.21,13
+Store 29,Italy,2017,Audio,363.0,27
+Store 29,Italy,2017,Cameras and camcorders,793.16,9
+Store 29,Italy,2017,Cell phones,855.88,19
+Store 29,Italy,2017,Computers,1402.45,31
+Store 29,Italy,2017,Games and Toys,394.83,10
+Store 29,Italy,2017,Home Appliances,800.52,18
+Store 29,Italy,2017,"Music, Movies and Audio Books",401.96,14
+Store 29,Italy,2017,TV and Video,1665.31,14
+Store 29,Italy,2016,Audio,494.1,12
+Store 29,Italy,2016,Cameras and camcorders,2313.58,15
+Store 29,Italy,2016,Cell phones,556.63,9
+Store 29,Italy,2016,Computers,1306.3,19
+Store 29,Italy,2016,Games and Toys,43.5,8
+Store 29,Italy,2016,Home Appliances,2782.95,18
+Store 29,Italy,2016,"Music, Movies and Audio Books",577.52,24
+Store 29,Italy,2016,TV and Video,1725.53,15
+Store 30,Italy,2021,Audio,479.92,1
+Store 30,Italy,2021,Cell phones,32.99,1
+Store 30,Italy,2021,Computers,6291.0,1
+Store 30,Italy,2020,Audio,227.55,9
+Store 30,Italy,2020,Cameras and camcorders,1206.47,18
+Store 30,Italy,2020,Cell phones,678.62,26
+Store 30,Italy,2020,Computers,1374.81,42
+Store 30,Italy,2020,Games and Toys,333.64,17
+Store 30,Italy,2020,Home Appliances,2077.41,7
+Store 30,Italy,2020,"Music, Movies and Audio Books",435.26,25
+Store 30,Italy,2020,TV and Video,1735.67,5
+Store 30,Italy,2019,Audio,435.67,37
+Store 30,Italy,2019,Cameras and camcorders,818.89,35
+Store 30,Italy,2019,Cell phones,426.13,65
+Store 30,Italy,2019,Computers,1169.16,78
+Store 30,Italy,2019,Games and Toys,112.8,44
+Store 30,Italy,2019,Home Appliances,2991.87,23
+Store 30,Italy,2019,"Music, Movies and Audio Books",299.8,43
+Store 30,Italy,2019,TV and Video,2539.76,13
+Store 30,Italy,2018,Audio,500.41,32
+Store 30,Italy,2018,Cameras and camcorders,1494.19,22
+Store 30,Italy,2018,Cell phones,725.87,44
+Store 30,Italy,2018,Computers,1488.39,61
+Store 30,Italy,2018,Games and Toys,135.74,31
+Store 30,Italy,2018,Home Appliances,2482.62,27
+Store 30,Italy,2018,"Music, Movies and Audio Books",252.1,25
+Store 30,Italy,2018,TV and Video,4002.67,11
+Store 30,Italy,2017,Audio,285.78,13
+Store 30,Italy,2017,Cameras and camcorders,882.12,8
+Store 30,Italy,2017,Cell phones,719.94,18
+Store 30,Italy,2017,Computers,2125.76,23
+Store 30,Italy,2017,Games and Toys,164.62,8
+Store 30,Italy,2017,Home Appliances,1906.93,18
+Store 30,Italy,2017,"Music, Movies and Audio Books",421.96,22
+Store 30,Italy,2017,TV and Video,575.34,14
+Store 30,Italy,2016,Audio,540.28,11
+Store 30,Italy,2016,Cameras and camcorders,1367.92,16
+Store 30,Italy,2016,Cell phones,565.53,11
+Store 30,Italy,2016,Computers,833.75,14
+Store 30,Italy,2016,Games and Toys,50.21,12
+Store 30,Italy,2016,Home Appliances,1131.44,13
+Store 30,Italy,2016,"Music, Movies and Audio Books",358.39,20
+Store 30,Italy,2016,TV and Video,3503.62,12
+Store 31,Netherlands,2021,Audio,653.77,2
+Store 31,Netherlands,2021,Cameras and camcorders,165.0,1
+Store 31,Netherlands,2021,Cell phones,39.96,1
+Store 31,Netherlands,2021,Computers,330.95,2
+Store 31,Netherlands,2021,Games and Toys,96.0,1
+Store 31,Netherlands,2021,Home Appliances,392.46,2
+Store 31,Netherlands,2021,TV and Video,455.2,1
+Store 31,Netherlands,2020,Audio,1208.5,2
+Store 31,Netherlands,2020,Cameras and camcorders,618.27,7
+Store 31,Netherlands,2020,Cell phones,799.66,10
+Store 31,Netherlands,2020,Computers,2149.94,14
+Store 31,Netherlands,2020,Games and Toys,75.85,10
+Store 31,Netherlands,2020,Home Appliances,954.64,3
+Store 31,Netherlands,2020,"Music, Movies and Audio Books",202.06,10
+Store 31,Netherlands,2020,TV and Video,756.77,3
+Store 31,Netherlands,2019,Audio,271.66,11
+Store 31,Netherlands,2019,Cameras and camcorders,840.51,18
+Store 31,Netherlands,2019,Cell phones,706.49,17
+Store 31,Netherlands,2019,Computers,1547.85,27
+Store 31,Netherlands,2019,Games and Toys,135.62,18
+Store 31,Netherlands,2019,Home Appliances,659.56,9
+Store 31,Netherlands,2019,"Music, Movies and Audio Books",297.76,22
+Store 31,Netherlands,2019,TV and Video,1844.48,12
+Store 31,Netherlands,2018,Audio,319.24,21
+Store 31,Netherlands,2018,Cameras and camcorders,169.82,3
+Store 31,Netherlands,2018,Cell phones,828.48,22
+Store 31,Netherlands,2018,Computers,1319.71,29
+Store 31,Netherlands,2018,Games and Toys,135.13,13
+Store 31,Netherlands,2018,Home Appliances,1586.75,17
+Store 31,Netherlands,2018,"Music, Movies and Audio Books",485.07,13
+Store 31,Netherlands,2018,TV and Video,1074.33,8
+Store 31,Netherlands,2017,Audio,427.64,6
+Store 31,Netherlands,2017,Cameras and camcorders,814.0,2
+Store 31,Netherlands,2017,Cell phones,309.19,5
+Store 31,Netherlands,2017,Computers,2825.7,11
+Store 31,Netherlands,2017,Games and Toys,96.74,3
+Store 31,Netherlands,2017,Home Appliances,596.78,7
+Store 31,Netherlands,2017,"Music, Movies and Audio Books",478.25,4
+Store 31,Netherlands,2017,TV and Video,612.3,3
+Store 31,Netherlands,2016,Audio,774.33,6
+Store 31,Netherlands,2016,Cameras and camcorders,1471.97,5
+Store 31,Netherlands,2016,Cell phones,97.19,6
+Store 31,Netherlands,2016,Computers,949.97,12
+Store 31,Netherlands,2016,Games and Toys,151.87,4
+Store 31,Netherlands,2016,Home Appliances,2046.24,6
+Store 31,Netherlands,2016,"Music, Movies and Audio Books",272.92,6
+Store 31,Netherlands,2016,TV and Video,494.79,2
+Store 32,Netherlands,2021,Cell phones,2595.0,2
+Store 32,Netherlands,2021,Computers,542.25,4
+Store 32,Netherlands,2021,Games and Toys,160.0,1
+Store 32,Netherlands,2021,Home Appliances,1259.93,1
+Store 32,Netherlands,2021,"Music, Movies and Audio Books",109.99,1
+Store 32,Netherlands,2021,TV and Video,1527.02,1
+Store 32,Netherlands,2020,Audio,386.66,11
+Store 32,Netherlands,2020,Cameras and camcorders,842.18,8
+Store 32,Netherlands,2020,Cell phones,356.82,24
+Store 32,Netherlands,2020,Computers,1282.61,22
+Store 32,Netherlands,2020,Games and Toys,89.7,12
+Store 32,Netherlands,2020,Home Appliances,586.72,4
+Store 32,Netherlands,2020,"Music, Movies and Audio Books",367.38,15
+Store 32,Netherlands,2020,TV and Video,2120.0,3
+Store 32,Netherlands,2019,Audio,667.28,12
+Store 32,Netherlands,2019,Cameras and camcorders,1917.58,9
+Store 32,Netherlands,2019,Cell phones,577.93,26
+Store 32,Netherlands,2019,Computers,1461.81,39
+Store 32,Netherlands,2019,Games and Toys,127.17,23
+Store 32,Netherlands,2019,Home Appliances,1183.69,7
+Store 32,Netherlands,2019,"Music, Movies and Audio Books",206.06,15
+Store 32,Netherlands,2019,TV and Video,4798.28,7
+Store 32,Netherlands,2018,Audio,505.2,14
+Store 32,Netherlands,2018,Cameras and camcorders,934.25,12
+Store 32,Netherlands,2018,Cell phones,743.56,19
+Store 32,Netherlands,2018,Computers,975.72,29
+Store 32,Netherlands,2018,Games and Toys,66.9,17
+Store 32,Netherlands,2018,Home Appliances,1762.54,9
+Store 32,Netherlands,2018,"Music, Movies and Audio Books",421.51,13
+Store 32,Netherlands,2018,TV and Video,802.86,7
+Store 32,Netherlands,2017,Audio,258.68,2
+Store 32,Netherlands,2017,Cameras and camcorders,579.0,2
+Store 32,Netherlands,2017,Cell phones,863.99,5
+Store 32,Netherlands,2017,Computers,726.39,4
+Store 32,Netherlands,2017,Games and Toys,284.01,2
+Store 32,Netherlands,2017,Home Appliances,873.24,4
+Store 32,Netherlands,2017,"Music, Movies and Audio Books",254.66,3
+Store 32,Netherlands,2017,TV and Video,1915.99,2
+Store 32,Netherlands,2016,Audio,67.4,1
+Store 32,Netherlands,2016,Cameras and camcorders,1086.61,6
+Store 32,Netherlands,2016,Cell phones,692.9,12
+Store 32,Netherlands,2016,Computers,1246.67,6
+Store 32,Netherlands,2016,Games and Toys,18.49,3
+Store 32,Netherlands,2016,Home Appliances,1074.75,9
+Store 32,Netherlands,2016,"Music, Movies and Audio Books",412.95,18
+Store 32,Netherlands,2016,TV and Video,2251.67,8
+Store 33,Netherlands,2021,Audio,51.38,1
+Store 33,Netherlands,2021,Cameras and camcorders,324.98,2
+Store 33,Netherlands,2021,Cell phones,9.48,1
+Store 33,Netherlands,2021,Computers,699.0,1
+Store 33,Netherlands,2021,Games and Toys,14.97,1
+Store 33,Netherlands,2020,Audio,369.42,7
+Store 33,Netherlands,2020,Cameras and camcorders,474.32,6
+Store 33,Netherlands,2020,Cell phones,651.26,15
+Store 33,Netherlands,2020,Computers,1207.96,28
+Store 33,Netherlands,2020,Games and Toys,121.9,12
+Store 33,Netherlands,2020,Home Appliances,2307.97,6
+Store 33,Netherlands,2020,"Music, Movies and Audio Books",162.85,9
+Store 33,Netherlands,2020,TV and Video,1868.66,8
+Store 33,Netherlands,2019,Audio,305.25,16
+Store 33,Netherlands,2019,Cameras and camcorders,907.21,15
+Store 33,Netherlands,2019,Cell phones,823.76,25
+Store 33,Netherlands,2019,Computers,1242.47,43
+Store 33,Netherlands,2019,Games and Toys,78.99,29
+Store 33,Netherlands,2019,Home Appliances,1130.01,14
+Store 33,Netherlands,2019,"Music, Movies and Audio Books",284.84,28
+Store 33,Netherlands,2019,TV and Video,1377.48,10
+Store 33,Netherlands,2018,Audio,406.32,12
+Store 33,Netherlands,2018,Cameras and camcorders,856.27,7
+Store 33,Netherlands,2018,Cell phones,404.62,17
+Store 33,Netherlands,2018,Computers,1287.24,14
+Store 33,Netherlands,2018,Games and Toys,98.78,9
+Store 33,Netherlands,2018,Home Appliances,862.12,7
+Store 33,Netherlands,2018,"Music, Movies and Audio Books",489.85,17
+Store 33,Netherlands,2018,TV and Video,476.62,8
+Store 33,Netherlands,2017,Audio,400.51,13
+Store 33,Netherlands,2017,Cameras and camcorders,1088.41,9
+Store 33,Netherlands,2017,Cell phones,407.93,9
+Store 33,Netherlands,2017,Computers,1610.31,24
+Store 33,Netherlands,2017,Games and Toys,176.31,3
+Store 33,Netherlands,2017,Home Appliances,887.48,8
+Store 33,Netherlands,2017,"Music, Movies and Audio Books",308.79,11
+Store 33,Netherlands,2017,TV and Video,688.99,2
+Store 33,Netherlands,2016,Audio,454.29,10
+Store 33,Netherlands,2016,Cameras and camcorders,556.13,3
+Store 33,Netherlands,2016,Cell phones,218.39,5
+Store 33,Netherlands,2016,Computers,2270.07,13
+Store 33,Netherlands,2016,Games and Toys,48.99,3
+Store 33,Netherlands,2016,Home Appliances,3000.48,8
+Store 33,Netherlands,2016,"Music, Movies and Audio Books",515.98,6
+Store 33,Netherlands,2016,TV and Video,4564.05,3
+Store 34,Netherlands,2021,Computers,2095.6,3
+Store 34,Netherlands,2021,Home Appliances,119.99,1
+Store 34,Netherlands,2021,"Music, Movies and Audio Books",90.93,1
+Store 34,Netherlands,2020,Audio,336.84,8
+Store 34,Netherlands,2020,Cameras and camcorders,988.82,14
+Store 34,Netherlands,2020,Cell phones,434.19,12
+Store 34,Netherlands,2020,Computers,1514.78,15
+Store 34,Netherlands,2020,Games and Toys,20.23,6
+Store 34,Netherlands,2020,Home Appliances,404.98,3
+Store 34,Netherlands,2020,"Music, Movies and Audio Books",595.83,7
+Store 34,Netherlands,2020,TV and Video,1887.0,2
+Store 34,Netherlands,2019,Audio,466.48,17
+Store 34,Netherlands,2019,Cameras and camcorders,1599.49,13
+Store 34,Netherlands,2019,Cell phones,586.91,25
+Store 34,Netherlands,2019,Computers,2026.76,26
+Store 34,Netherlands,2019,Games and Toys,138.3,25
+Store 34,Netherlands,2019,Home Appliances,2236.05,6
+Store 34,Netherlands,2019,"Music, Movies and Audio Books",362.33,27
+Store 34,Netherlands,2019,TV and Video,1168.48,6
+Store 34,Netherlands,2018,Audio,442.49,18
+Store 34,Netherlands,2018,Cameras and camcorders,1125.05,10
+Store 34,Netherlands,2018,Cell phones,699.25,22
+Store 34,Netherlands,2018,Computers,1340.66,28
+Store 34,Netherlands,2018,Games and Toys,109.7,10
+Store 34,Netherlands,2018,Home Appliances,3472.1,11
+Store 34,Netherlands,2018,"Music, Movies and Audio Books",237.87,13
+Store 34,Netherlands,2018,TV and Video,4733.57,6
+Store 34,Netherlands,2017,Audio,350.14,10
+Store 34,Netherlands,2017,Cameras and camcorders,2811.57,6
+Store 34,Netherlands,2017,Cell phones,554.63,8
+Store 34,Netherlands,2017,Computers,831.7,17
+Store 34,Netherlands,2017,Games and Toys,188.02,6
+Store 34,Netherlands,2017,Home Appliances,982.96,10
+Store 34,Netherlands,2017,"Music, Movies and Audio Books",116.15,8
+Store 34,Netherlands,2017,TV and Video,1323.32,5
+Store 34,Netherlands,2016,Audio,417.59,4
+Store 34,Netherlands,2016,Cameras and camcorders,2057.85,6
+Store 34,Netherlands,2016,Cell phones,397.48,8
+Store 34,Netherlands,2016,Computers,1269.0,4
+Store 34,Netherlands,2016,Games and Toys,94.3,8
+Store 34,Netherlands,2016,Home Appliances,2266.38,5
+Store 34,Netherlands,2016,"Music, Movies and Audio Books",420.53,3
+Store 34,Netherlands,2016,TV and Video,1751.8,5
+Store 0,Online,2021,Audio,472.65,31
+Store 0,Online,2021,Cameras and camcorders,1035.12,25
+Store 0,Online,2021,Cell phones,661.4,64
+Store 0,Online,2021,Computers,1279.72,82
+Store 0,Online,2021,Games and Toys,55.23,38
+Store 0,Online,2021,Home Appliances,2252.94,12
+Store 0,Online,2021,"Music, Movies and Audio Books",372.91,54
+Store 0,Online,2021,TV and Video,1804.06,27
+Store 0,Online,2020,Audio,414.75,248
+Store 0,Online,2020,Cameras and camcorders,1008.17,236
+Store 0,Online,2020,Cell phones,652.36,475
+Store 0,Online,2020,Computers,1411.05,578
+Store 0,Online,2020,Games and Toys,81.37,342
+Store 0,Online,2020,Home Appliances,2168.72,121
+Store 0,Online,2020,"Music, Movies and Audio Books",353.84,363
+Store 0,Online,2020,TV and Video,1492.1,124
+Store 0,Online,2019,Audio,422.39,535
+Store 0,Online,2019,Cameras and camcorders,1101.08,421
+Store 0,Online,2019,Cell phones,622.7,826
+Store 0,Online,2019,Computers,1361.98,1102
+Store 0,Online,2019,Games and Toys,107.01,636
+Store 0,Online,2019,Home Appliances,1790.67,344
+Store 0,Online,2019,"Music, Movies and Audio Books",329.78,637
+Store 0,Online,2019,TV and Video,1604.12,193
+Store 0,Online,2018,Audio,426.66,398
+Store 0,Online,2018,Cameras and camcorders,1115.48,229
+Store 0,Online,2018,Cell phones,619.3,481
+Store 0,Online,2018,Computers,1376.63,672
+Store 0,Online,2018,Games and Toys,99.47,295
+Store 0,Online,2018,Home Appliances,1864.77,284
+Store 0,Online,2018,"Music, Movies and Audio Books",333.15,423
+Store 0,Online,2018,TV and Video,1445.65,162
+Store 0,Online,2017,Audio,426.46,227
+Store 0,Online,2017,Cameras and camcorders,1100.26,120
+Store 0,Online,2017,Cell phones,563.48,212
+Store 0,Online,2017,Computers,1252.81,350
+Store 0,Online,2017,Games and Toys,129.15,114
+Store 0,Online,2017,Home Appliances,1747.47,213
+Store 0,Online,2017,"Music, Movies and Audio Books",329.77,220
+Store 0,Online,2017,TV and Video,1580.34,90
+Store 0,Online,2016,Audio,463.11,119
+Store 0,Online,2016,Cameras and camcorders,1052.52,130
+Store 0,Online,2016,Cell phones,660.44,131
+Store 0,Online,2016,Computers,1657.24,181
+Store 0,Online,2016,Games and Toys,94.16,92
+Store 0,Online,2016,Home Appliances,1807.86,170
+Store 0,Online,2016,"Music, Movies and Audio Books",320.1,200
+Store 0,Online,2016,TV and Video,1528.13,138
+Store 36,United Kingdom,2021,Cameras and camcorders,1281.0,1
+Store 36,United Kingdom,2021,Cell phones,582.4,6
+Store 36,United Kingdom,2021,Computers,2002.13,6
+Store 36,United Kingdom,2021,Games and Toys,172.0,1
+Store 36,United Kingdom,2021,Home Appliances,791.0,1
+Store 36,United Kingdom,2021,"Music, Movies and Audio Books",366.66,8
+Store 36,United Kingdom,2020,Audio,610.43,17
+Store 36,United Kingdom,2020,Cameras and camcorders,1105.28,14
+Store 36,United Kingdom,2020,Cell phones,715.5,27
+Store 36,United Kingdom,2020,Computers,1345.47,36
+Store 36,United Kingdom,2020,Games and Toys,106.47,23
+Store 36,United Kingdom,2020,Home Appliances,1199.54,10
+Store 36,United Kingdom,2020,"Music, Movies and Audio Books",325.38,25
+Store 36,United Kingdom,2020,TV and Video,1998.63,7
+Store 36,United Kingdom,2019,Audio,403.66,39
+Store 36,United Kingdom,2019,Cameras and camcorders,1246.11,30
+Store 36,United Kingdom,2019,Cell phones,618.03,65
+Store 36,United Kingdom,2019,Computers,1270.66,97
+Store 36,United Kingdom,2019,Games and Toys,73.87,47
+Store 36,United Kingdom,2019,Home Appliances,1184.73,23
+Store 36,United Kingdom,2019,"Music, Movies and Audio Books",308.39,55
+Store 36,United Kingdom,2019,TV and Video,1750.73,13
+Store 36,United Kingdom,2018,Audio,445.43,26
+Store 36,United Kingdom,2018,Cameras and camcorders,1246.19,21
+Store 36,United Kingdom,2018,Cell phones,603.86,36
+Store 36,United Kingdom,2018,Computers,1405.19,48
+Store 36,United Kingdom,2018,Games and Toys,92.26,18
+Store 36,United Kingdom,2018,Home Appliances,1225.62,26
+Store 36,United Kingdom,2018,"Music, Movies and Audio Books",285.71,30
+Store 36,United Kingdom,2018,TV and Video,1128.93,11
+Store 36,United Kingdom,2017,Audio,533.22,20
+Store 36,United Kingdom,2017,Cameras and camcorders,724.84,12
+Store 36,United Kingdom,2017,Cell phones,401.84,27
+Store 36,United Kingdom,2017,Computers,1271.31,24
+Store 36,United Kingdom,2017,Games and Toys,135.8,9
+Store 36,United Kingdom,2017,Home Appliances,1802.85,16
+Store 36,United Kingdom,2017,"Music, Movies and Audio Books",352.3,21
+Store 36,United Kingdom,2017,TV and Video,1648.82,14
+Store 36,United Kingdom,2016,Audio,401.58,17
+Store 36,United Kingdom,2016,Cameras and camcorders,747.75,14
+Store 36,United Kingdom,2016,Cell phones,563.52,20
+Store 36,United Kingdom,2016,Computers,557.4,20
+Store 36,United Kingdom,2016,Games and Toys,88.91,9
+Store 36,United Kingdom,2016,Home Appliances,1731.57,22
+Store 36,United Kingdom,2016,"Music, Movies and Audio Books",325.13,22
+Store 36,United Kingdom,2016,TV and Video,754.86,15
+Store 37,United Kingdom,2021,Cameras and camcorders,198.0,1
+Store 37,United Kingdom,2021,Cell phones,485.83,5
+Store 37,United Kingdom,2021,Computers,1225.16,4
+Store 37,United Kingdom,2021,Games and Toys,142.45,6
+Store 37,United Kingdom,2021,"Music, Movies and Audio Books",264.21,8
+Store 37,United Kingdom,2021,TV and Video,169.99,1
+Store 37,United Kingdom,2020,Audio,589.61,13
+Store 37,United Kingdom,2020,Cameras and camcorders,628.0,13
+Store 37,United Kingdom,2020,Cell phones,753.96,22
+Store 37,United Kingdom,2020,Computers,1844.24,30
+Store 37,United Kingdom,2020,Games and Toys,80.24,14
+Store 37,United Kingdom,2020,Home Appliances,1424.42,9
+Store 37,United Kingdom,2020,"Music, Movies and Audio Books",191.77,24
+Store 37,United Kingdom,2020,TV and Video,1966.81,6
+Store 37,United Kingdom,2019,Audio,390.49,31
+Store 37,United Kingdom,2019,Cameras and camcorders,983.09,34
+Store 37,United Kingdom,2019,Cell phones,456.51,45
+Store 37,United Kingdom,2019,Computers,1016.22,70
+Store 37,United Kingdom,2019,Games and Toys,114.36,51
+Store 37,United Kingdom,2019,Home Appliances,725.37,19
+Store 37,United Kingdom,2019,"Music, Movies and Audio Books",342.86,51
+Store 37,United Kingdom,2019,TV and Video,3037.39,10
+Store 37,United Kingdom,2018,Audio,503.27,26
+Store 37,United Kingdom,2018,Cameras and camcorders,1266.93,14
+Store 37,United Kingdom,2018,Cell phones,519.01,36
+Store 37,United Kingdom,2018,Computers,1781.3,52
+Store 37,United Kingdom,2018,Games and Toys,78.59,21
+Store 37,United Kingdom,2018,Home Appliances,1938.45,24
+Store 37,United Kingdom,2018,"Music, Movies and Audio Books",325.59,36
+Store 37,United Kingdom,2018,TV and Video,1063.02,15
+Store 37,United Kingdom,2017,Audio,300.26,11
+Store 37,United Kingdom,2017,Cameras and camcorders,1541.84,14
+Store 37,United Kingdom,2017,Cell phones,459.22,20
+Store 37,United Kingdom,2017,Computers,1597.1,33
+Store 37,United Kingdom,2017,Games and Toys,55.51,9
+Store 37,United Kingdom,2017,Home Appliances,1107.65,13
+Store 37,United Kingdom,2017,"Music, Movies and Audio Books",354.24,22
+Store 37,United Kingdom,2017,TV and Video,1523.66,10
+Store 37,United Kingdom,2016,Audio,403.13,11
+Store 37,United Kingdom,2016,Cameras and camcorders,1117.57,17
+Store 37,United Kingdom,2016,Cell phones,660.23,18
+Store 37,United Kingdom,2016,Computers,1736.06,27
+Store 37,United Kingdom,2016,Games and Toys,150.87,13
+Store 37,United Kingdom,2016,Home Appliances,1368.22,35
+Store 37,United Kingdom,2016,"Music, Movies and Audio Books",322.18,33
+Store 37,United Kingdom,2016,TV and Video,1289.13,18
+Store 38,United Kingdom,2021,Computers,81.0,1
+Store 38,United Kingdom,2021,Games and Toys,56.0,1
+Store 38,United Kingdom,2020,Audio,608.98,16
+Store 38,United Kingdom,2020,Cameras and camcorders,990.75,15
+Store 38,United Kingdom,2020,Cell phones,658.51,37
+Store 38,United Kingdom,2020,Computers,1273.5,33
+Store 38,United Kingdom,2020,Games and Toys,119.53,25
+Store 38,United Kingdom,2020,Home Appliances,2694.94,9
+Store 38,United Kingdom,2020,"Music, Movies and Audio Books",350.37,29
+Store 38,United Kingdom,2020,TV and Video,3291.81,7
+Store 38,United Kingdom,2019,Audio,526.15,40
+Store 38,United Kingdom,2019,Cameras and camcorders,1206.65,25
+Store 38,United Kingdom,2019,Cell phones,528.95,70
+Store 38,United Kingdom,2019,Computers,1528.22,70
+Store 38,United Kingdom,2019,Games and Toys,96.1,29
+Store 38,United Kingdom,2019,Home Appliances,1700.67,22
+Store 38,United Kingdom,2019,"Music, Movies and Audio Books",240.37,39
+Store 38,United Kingdom,2019,TV and Video,1832.93,22
+Store 38,United Kingdom,2018,Audio,345.91,30
+Store 38,United Kingdom,2018,Cameras and camcorders,1201.79,19
+Store 38,United Kingdom,2018,Cell phones,594.7,40
+Store 38,United Kingdom,2018,Computers,1166.49,56
+Store 38,United Kingdom,2018,Games and Toys,94.42,22
+Store 38,United Kingdom,2018,Home Appliances,2504.49,28
+Store 38,United Kingdom,2018,"Music, Movies and Audio Books",314.62,36
+Store 38,United Kingdom,2018,TV and Video,2384.41,15
+Store 38,United Kingdom,2017,Audio,352.61,23
+Store 38,United Kingdom,2017,Cameras and camcorders,454.57,7
+Store 38,United Kingdom,2017,Cell phones,448.63,21
+Store 38,United Kingdom,2017,Computers,1382.92,25
+Store 38,United Kingdom,2017,Games and Toys,65.86,13
+Store 38,United Kingdom,2017,Home Appliances,2840.17,20
+Store 38,United Kingdom,2017,"Music, Movies and Audio Books",413.74,29
+Store 38,United Kingdom,2017,TV and Video,1752.19,12
+Store 38,United Kingdom,2016,Audio,375.51,25
+Store 38,United Kingdom,2016,Cameras and camcorders,1367.05,13
+Store 38,United Kingdom,2016,Cell phones,329.43,13
+Store 38,United Kingdom,2016,Computers,1613.51,20
+Store 38,United Kingdom,2016,Games and Toys,89.56,7
+Store 38,United Kingdom,2016,Home Appliances,2406.6,28
+Store 38,United Kingdom,2016,"Music, Movies and Audio Books",423.44,30
+Store 38,United Kingdom,2016,TV and Video,2217.01,12
+Store 39,United Kingdom,2021,Cameras and camcorders,425.5,2
+Store 39,United Kingdom,2021,Cell phones,705.75,4
+Store 39,United Kingdom,2021,Computers,818.95,4
+Store 39,United Kingdom,2021,Games and Toys,20.97,1
+Store 39,United Kingdom,2021,Home Appliances,4614.85,2
+Store 39,United Kingdom,2021,"Music, Movies and Audio Books",27.78,1
+Store 39,United Kingdom,2020,Audio,393.31,28
+Store 39,United Kingdom,2020,Cameras and camcorders,1386.35,22
+Store 39,United Kingdom,2020,Cell phones,277.35,36
+Store 39,United Kingdom,2020,Computers,1340.0,43
+Store 39,United Kingdom,2020,Games and Toys,123.18,18
+Store 39,United Kingdom,2020,Home Appliances,3572.78,5
+Store 39,United Kingdom,2020,"Music, Movies and Audio Books",318.78,28
+Store 39,United Kingdom,2020,TV and Video,423.9,10
+Store 39,United Kingdom,2019,Audio,487.1,50
+Store 39,United Kingdom,2019,Cameras and camcorders,917.15,34
+Store 39,United Kingdom,2019,Cell phones,679.94,75
+Store 39,United Kingdom,2019,Computers,1201.21,79
+Store 39,United Kingdom,2019,Games and Toys,187.83,42
+Store 39,United Kingdom,2019,Home Appliances,2783.55,29
+Store 39,United Kingdom,2019,"Music, Movies and Audio Books",309.38,42
+Store 39,United Kingdom,2019,TV and Video,2103.36,17
+Store 39,United Kingdom,2018,Audio,360.55,38
+Store 39,United Kingdom,2018,Cameras and camcorders,963.81,17
+Store 39,United Kingdom,2018,Cell phones,689.67,42
+Store 39,United Kingdom,2018,Computers,1259.88,57
+Store 39,United Kingdom,2018,Games and Toys,147.8,18
+Store 39,United Kingdom,2018,Home Appliances,1153.25,23
+Store 39,United Kingdom,2018,"Music, Movies and Audio Books",264.01,40
+Store 39,United Kingdom,2018,TV and Video,1309.33,6
+Store 39,United Kingdom,2017,Audio,416.47,11
+Store 39,United Kingdom,2017,Cameras and camcorders,1563.97,11
+Store 39,United Kingdom,2017,Cell phones,546.11,15
+Store 39,United Kingdom,2017,Computers,1352.08,27
+Store 39,United Kingdom,2017,Games and Toys,165.47,6
+Store 39,United Kingdom,2017,Home Appliances,1363.17,20
+Store 39,United Kingdom,2017,"Music, Movies and Audio Books",459.64,13
+Store 39,United Kingdom,2017,TV and Video,3691.55,11
+Store 39,United Kingdom,2016,Audio,414.51,21
+Store 39,United Kingdom,2016,Cameras and camcorders,649.46,14
+Store 39,United Kingdom,2016,Cell phones,438.12,24
+Store 39,United Kingdom,2016,Computers,969.54,18
+Store 39,United Kingdom,2016,Games and Toys,162.54,4
+Store 39,United Kingdom,2016,Home Appliances,998.2,16
+Store 39,United Kingdom,2016,"Music, Movies and Audio Books",189.67,19
+Store 39,United Kingdom,2016,TV and Video,996.31,11
+Store 40,United Kingdom,2021,Audio,121.65,1
+Store 40,United Kingdom,2021,Cameras and camcorders,667.0,3
+Store 40,United Kingdom,2021,Cell phones,1233.53,4
+Store 40,United Kingdom,2021,Computers,1345.55,3
+Store 40,United Kingdom,2021,Games and Toys,65.39,5
+Store 40,United Kingdom,2021,Home Appliances,1173.32,3
+Store 40,United Kingdom,2021,TV and Video,735.99,3
+Store 40,United Kingdom,2020,Audio,480.09,18
+Store 40,United Kingdom,2020,Cameras and camcorders,992.11,14
+Store 40,United Kingdom,2020,Cell phones,750.17,33
+Store 40,United Kingdom,2020,Computers,1249.39,34
+Store 40,United Kingdom,2020,Games and Toys,106.67,19
+Store 40,United Kingdom,2020,Home Appliances,4558.43,6
+Store 40,United Kingdom,2020,"Music, Movies and Audio Books",181.53,22
+Store 40,United Kingdom,2020,TV and Video,1162.87,3
+Store 40,United Kingdom,2019,Audio,466.94,40
+Store 40,United Kingdom,2019,Cameras and camcorders,1275.61,30
+Store 40,United Kingdom,2019,Cell phones,618.23,59
+Store 40,United Kingdom,2019,Computers,1487.63,70
+Store 40,United Kingdom,2019,Games and Toys,89.19,38
+Store 40,United Kingdom,2019,Home Appliances,1466.57,27
+Store 40,United Kingdom,2019,"Music, Movies and Audio Books",311.19,53
+Store 40,United Kingdom,2019,TV and Video,2474.27,13
+Store 40,United Kingdom,2018,Audio,435.28,37
+Store 40,United Kingdom,2018,Cameras and camcorders,1435.44,20
+Store 40,United Kingdom,2018,Cell phones,579.78,45
+Store 40,United Kingdom,2018,Computers,1364.59,48
+Store 40,United Kingdom,2018,Games and Toys,119.74,22
+Store 40,United Kingdom,2018,Home Appliances,1897.76,22
+Store 40,United Kingdom,2018,"Music, Movies and Audio Books",305.17,40
+Store 40,United Kingdom,2018,TV and Video,1291.59,17
+Store 40,United Kingdom,2017,Audio,355.02,19
+Store 40,United Kingdom,2017,Cameras and camcorders,857.73,18
+Store 40,United Kingdom,2017,Cell phones,472.57,23
+Store 40,United Kingdom,2017,Computers,1134.19,34
+Store 40,United Kingdom,2017,Games and Toys,51.24,11
+Store 40,United Kingdom,2017,Home Appliances,2256.9,29
+Store 40,United Kingdom,2017,"Music, Movies and Audio Books",346.94,22
+Store 40,United Kingdom,2017,TV and Video,1006.69,10
+Store 40,United Kingdom,2016,Audio,425.25,16
+Store 40,United Kingdom,2016,Cameras and camcorders,1223.28,18
+Store 40,United Kingdom,2016,Cell phones,803.99,17
+Store 40,United Kingdom,2016,Computers,943.56,18
+Store 40,United Kingdom,2016,Games and Toys,51.37,12
+Store 40,United Kingdom,2016,Home Appliances,1482.27,16
+Store 40,United Kingdom,2016,"Music, Movies and Audio Books",297.33,20
+Store 40,United Kingdom,2016,TV and Video,1238.9,15
+Store 41,United Kingdom,2018,Audio,277.73,18
+Store 41,United Kingdom,2018,Cameras and camcorders,1320.6,8
+Store 41,United Kingdom,2018,Cell phones,703.69,20
+Store 41,United Kingdom,2018,Computers,1147.54,35
+Store 41,United Kingdom,2018,Games and Toys,94.56,16
+Store 41,United Kingdom,2018,Home Appliances,1630.3,17
+Store 41,United Kingdom,2018,"Music, Movies and Audio Books",273.35,35
+Store 41,United Kingdom,2018,TV and Video,691.67,7
+Store 41,United Kingdom,2017,Audio,440.74,23
+Store 41,United Kingdom,2017,Cameras and camcorders,1312.15,13
+Store 41,United Kingdom,2017,Cell phones,512.21,13
+Store 41,United Kingdom,2017,Computers,1075.22,44
+Store 41,United Kingdom,2017,Games and Toys,31.91,14
+Store 41,United Kingdom,2017,Home Appliances,2590.47,22
+Store 41,United Kingdom,2017,"Music, Movies and Audio Books",276.63,24
+Store 41,United Kingdom,2017,TV and Video,1096.12,13
+Store 41,United Kingdom,2016,Audio,312.86,14
+Store 41,United Kingdom,2016,Cameras and camcorders,1299.96,17
+Store 41,United Kingdom,2016,Cell phones,722.36,12
+Store 41,United Kingdom,2016,Computers,1492.0,29
+Store 41,United Kingdom,2016,Games and Toys,76.47,9
+Store 41,United Kingdom,2016,Home Appliances,1533.81,12
+Store 41,United Kingdom,2016,"Music, Movies and Audio Books",372.9,17
+Store 41,United Kingdom,2016,TV and Video,523.11,12
+Store 42,United Kingdom,2021,Audio,120.0,1
+Store 42,United Kingdom,2021,Cameras and camcorders,804.0,1
+Store 42,United Kingdom,2021,Cell phones,163.71,4
+Store 42,United Kingdom,2021,Computers,846.58,3
+Store 42,United Kingdom,2021,Games and Toys,236.13,4
+Store 42,United Kingdom,2021,"Music, Movies and Audio Books",450.53,3
+Store 42,United Kingdom,2021,TV and Video,238.0,1
+Store 42,United Kingdom,2020,Audio,343.92,10
+Store 42,United Kingdom,2020,Cameras and camcorders,936.64,17
+Store 42,United Kingdom,2020,Cell phones,643.59,35
+Store 42,United Kingdom,2020,Computers,1477.3,37
+Store 42,United Kingdom,2020,Games and Toys,92.62,22
+Store 42,United Kingdom,2020,Home Appliances,1259.77,13
+Store 42,United Kingdom,2020,"Music, Movies and Audio Books",399.26,24
+Store 42,United Kingdom,2020,TV and Video,1069.89,5
+Store 42,United Kingdom,2019,Audio,455.85,32
+Store 42,United Kingdom,2019,Cameras and camcorders,1123.82,29
+Store 42,United Kingdom,2019,Cell phones,618.52,52
+Store 42,United Kingdom,2019,Computers,1512.04,87
+Store 42,United Kingdom,2019,Games and Toys,81.5,41
+Store 42,United Kingdom,2019,Home Appliances,3062.72,17
+Store 42,United Kingdom,2019,"Music, Movies and Audio Books",211.45,45
+Store 42,United Kingdom,2019,TV and Video,1382.15,15
+Store 42,United Kingdom,2018,Audio,471.26,29
+Store 42,United Kingdom,2018,Cameras and camcorders,528.12,12
+Store 42,United Kingdom,2018,Cell phones,529.97,45
+Store 42,United Kingdom,2018,Computers,1587.31,44
+Store 42,United Kingdom,2018,Games and Toys,122.5,22
+Store 42,United Kingdom,2018,Home Appliances,1445.28,27
+Store 42,United Kingdom,2018,"Music, Movies and Audio Books",279.4,26
+Store 42,United Kingdom,2018,TV and Video,1590.06,9
+Store 42,United Kingdom,2017,Audio,499.28,25
+Store 42,United Kingdom,2017,Cameras and camcorders,1327.23,15
+Store 42,United Kingdom,2017,Cell phones,769.4,29
+Store 42,United Kingdom,2017,Computers,1069.91,31
+Store 42,United Kingdom,2017,Games and Toys,76.17,12
+Store 42,United Kingdom,2017,Home Appliances,1396.49,18
+Store 42,United Kingdom,2017,"Music, Movies and Audio Books",208.57,21
+Store 42,United Kingdom,2017,TV and Video,1798.7,9
+Store 42,United Kingdom,2016,Audio,304.04,14
+Store 42,United Kingdom,2016,Cameras and camcorders,952.12,18
+Store 42,United Kingdom,2016,Cell phones,667.82,17
+Store 42,United Kingdom,2016,Computers,2493.25,27
+Store 42,United Kingdom,2016,Games and Toys,75.36,17
+Store 42,United Kingdom,2016,Home Appliances,1119.71,21
+Store 42,United Kingdom,2016,"Music, Movies and Audio Books",301.36,25
+Store 42,United Kingdom,2016,TV and Video,1510.62,6
+Store 43,United States,2021,Audio,265.54,2
+Store 43,United States,2021,Cameras and camcorders,148.0,1
+Store 43,United States,2021,Cell phones,446.99,2
+Store 43,United States,2021,Computers,2999.26,8
+Store 43,United States,2021,Games and Toys,168.0,1
+Store 43,United States,2021,"Music, Movies and Audio Books",109.99,1
+Store 43,United States,2021,TV and Video,2307.0,2
+Store 43,United States,2020,Audio,444.99,25
+Store 43,United States,2020,Cameras and camcorders,1966.13,18
+Store 43,United States,2020,Cell phones,523.69,40
+Store 43,United States,2020,Computers,1385.78,72
+Store 43,United States,2020,Games and Toys,120.47,42
+Store 43,United States,2020,Home Appliances,1985.92,16
+Store 43,United States,2020,"Music, Movies and Audio Books",250.12,37
+Store 43,United States,2020,TV and Video,3579.77,14
+Store 43,United States,2019,Audio,502.26,66
+Store 43,United States,2019,Cameras and camcorders,1169.6,50
+Store 43,United States,2019,Cell phones,589.43,99
+Store 43,United States,2019,Computers,1173.81,113
+Store 43,United States,2019,Games and Toys,88.38,62
+Store 43,United States,2019,Home Appliances,1821.31,42
+Store 43,United States,2019,"Music, Movies and Audio Books",381.98,61
+Store 43,United States,2019,TV and Video,3122.9,26
+Store 43,United States,2018,Audio,431.23,33
+Store 43,United States,2018,Cameras and camcorders,888.08,15
+Store 43,United States,2018,Cell phones,781.69,37
+Store 43,United States,2018,Computers,1358.9,57
+Store 43,United States,2018,Games and Toys,123.57,29
+Store 43,United States,2018,Home Appliances,1262.41,28
+Store 43,United States,2018,"Music, Movies and Audio Books",412.43,32
+Store 43,United States,2018,TV and Video,610.36,8
+Store 43,United States,2017,Audio,475.93,21
+Store 43,United States,2017,Cameras and camcorders,788.58,15
+Store 43,United States,2017,Cell phones,833.71,17
+Store 43,United States,2017,Computers,1615.03,34
+Store 43,United States,2017,Games and Toys,115.32,8
+Store 43,United States,2017,Home Appliances,2127.6,30
+Store 43,United States,2017,"Music, Movies and Audio Books",504.25,28
+Store 43,United States,2017,TV and Video,919.14,11
+Store 43,United States,2016,Audio,259.63,26
+Store 43,United States,2016,Cameras and camcorders,857.8,16
+Store 43,United States,2016,Cell phones,760.31,9
+Store 43,United States,2016,Computers,2150.19,20
+Store 43,United States,2016,Games and Toys,105.16,18
+Store 43,United States,2016,Home Appliances,948.52,19
+Store 43,United States,2016,"Music, Movies and Audio Books",268.23,16
+Store 43,United States,2016,TV and Video,1684.48,13
+Store 44,United States,2021,Cameras and camcorders,328.0,1
+Store 44,United States,2021,Cell phones,816.29,10
+Store 44,United States,2021,Computers,1429.19,4
+Store 44,United States,2021,Games and Toys,33.58,6
+Store 44,United States,2021,"Music, Movies and Audio Books",67.68,4
+Store 44,United States,2021,TV and Video,3493.0,1
+Store 44,United States,2020,Audio,438.12,29
+Store 44,United States,2020,Cameras and camcorders,1132.73,19
+Store 44,United States,2020,Cell phones,579.62,49
+Store 44,United States,2020,Computers,1572.85,52
+Store 44,United States,2020,Games and Toys,83.64,38
+Store 44,United States,2020,Home Appliances,1517.41,19
+Store 44,United States,2020,"Music, Movies and Audio Books",295.77,32
+Store 44,United States,2020,TV and Video,2106.97,10
+Store 44,United States,2019,Audio,326.33,53
+Store 44,United States,2019,Cameras and camcorders,1263.46,45
+Store 44,United States,2019,Cell phones,637.91,69
+Store 44,United States,2019,Computers,1294.26,102
+Store 44,United States,2019,Games and Toys,95.56,56
+Store 44,United States,2019,Home Appliances,1965.4,28
+Store 44,United States,2019,"Music, Movies and Audio Books",292.69,70
+Store 44,United States,2019,TV and Video,1551.12,28
+Store 44,United States,2018,Audio,349.63,49
+Store 44,United States,2018,Cameras and camcorders,806.62,23
+Store 44,United States,2018,Cell phones,605.44,56
+Store 44,United States,2018,Computers,1218.24,96
+Store 44,United States,2018,Games and Toys,138.54,49
+Store 44,United States,2018,Home Appliances,1100.15,34
+Store 44,United States,2018,"Music, Movies and Audio Books",318.66,50
+Store 44,United States,2018,TV and Video,1644.31,28
+Store 44,United States,2017,Audio,328.31,29
+Store 44,United States,2017,Cameras and camcorders,1536.42,9
+Store 44,United States,2017,Cell phones,737.09,26
+Store 44,United States,2017,Computers,1289.45,35
+Store 44,United States,2017,Games and Toys,72.93,14
+Store 44,United States,2017,Home Appliances,2212.23,37
+Store 44,United States,2017,"Music, Movies and Audio Books",237.36,31
+Store 44,United States,2017,TV and Video,1163.71,7
+Store 44,United States,2016,Audio,331.17,9
+Store 44,United States,2016,Cameras and camcorders,409.52,9
+Store 44,United States,2016,Cell phones,417.06,21
+Store 44,United States,2016,Computers,1112.78,27
+Store 44,United States,2016,Games and Toys,68.32,17
+Store 44,United States,2016,Home Appliances,1603.0,21
+Store 44,United States,2016,"Music, Movies and Audio Books",285.09,19
+Store 44,United States,2016,TV and Video,3520.06,15
+Store 45,United States,2021,Cell phones,293.25,6
+Store 45,United States,2021,Computers,2082.48,10
+Store 45,United States,2021,Games and Toys,220.72,4
+Store 45,United States,2021,Home Appliances,1230.47,3
+Store 45,United States,2021,"Music, Movies and Audio Books",648.44,3
+Store 45,United States,2021,TV and Video,233.8,1
+Store 45,United States,2020,Audio,309.65,21
+Store 45,United States,2020,Cameras and camcorders,1313.0,34
+Store 45,United States,2020,Cell phones,518.48,47
+Store 45,United States,2020,Computers,1561.92,73
+Store 45,United States,2020,Games and Toys,98.85,42
+Store 45,United States,2020,Home Appliances,1723.99,14
+Store 45,United States,2020,"Music, Movies and Audio Books",403.23,44
+Store 45,United States,2020,TV and Video,2420.7,17
+Store 45,United States,2019,Audio,465.45,61
+Store 45,United States,2019,Cameras and camcorders,759.2,38
+Store 45,United States,2019,Cell phones,719.84,111
+Store 45,United States,2019,Computers,1207.38,125
+Store 45,United States,2019,Games and Toys,109.57,62
+Store 45,United States,2019,Home Appliances,1909.0,37
+Store 45,United States,2019,"Music, Movies and Audio Books",409.92,64
+Store 45,United States,2019,TV and Video,1047.71,15
+Store 45,United States,2018,Audio,505.36,36
+Store 45,United States,2018,Cameras and camcorders,1167.8,25
+Store 45,United States,2018,Cell phones,793.34,41
+Store 45,United States,2018,Computers,1268.15,79
+Store 45,United States,2018,Games and Toys,68.07,25
+Store 45,United States,2018,Home Appliances,1577.38,44
+Store 45,United States,2018,"Music, Movies and Audio Books",254.28,37
+Store 45,United States,2018,TV and Video,1887.64,18
+Store 45,United States,2017,Audio,390.1,28
+Store 45,United States,2017,Cameras and camcorders,1095.49,18
+Store 45,United States,2017,Cell phones,843.91,30
+Store 45,United States,2017,Computers,1621.37,45
+Store 45,United States,2017,Games and Toys,131.93,10
+Store 45,United States,2017,Home Appliances,1728.64,19
+Store 45,United States,2017,"Music, Movies and Audio Books",136.92,11
+Store 45,United States,2017,TV and Video,1512.78,15
+Store 45,United States,2016,Audio,365.53,17
+Store 45,United States,2016,Cameras and camcorders,1069.13,20
+Store 45,United States,2016,Cell phones,598.36,17
+Store 45,United States,2016,Computers,851.69,19
+Store 45,United States,2016,Games and Toys,92.17,15
+Store 45,United States,2016,Home Appliances,953.27,23
+Store 45,United States,2016,"Music, Movies and Audio Books",373.78,26
+Store 45,United States,2016,TV and Video,1735.36,21
+Store 47,United States,2021,Audio,129.97,2
+Store 47,United States,2021,Cameras and camcorders,25.0,1
+Store 47,United States,2021,Cell phones,998.99,4
+Store 47,United States,2021,Computers,691.91,8
+Store 47,United States,2021,Games and Toys,86.87,4
+Store 47,United States,2021,Home Appliances,1198.91,2
+Store 47,United States,2021,"Music, Movies and Audio Books",495.23,3
+Store 47,United States,2021,TV and Video,1256.95,2
+Store 47,United States,2020,Audio,414.14,42
+Store 47,United States,2020,Cameras and camcorders,819.1,26
+Store 47,United States,2020,Cell phones,702.37,51
+Store 47,United States,2020,Computers,958.61,67
+Store 47,United States,2020,Games and Toys,69.58,39
+Store 47,United States,2020,Home Appliances,2287.4,16
+Store 47,United States,2020,"Music, Movies and Audio Books",380.05,31
+Store 47,United States,2020,TV and Video,1289.39,12
+Store 47,United States,2019,Audio,391.13,57
+Store 47,United States,2019,Cameras and camcorders,1376.06,44
+Store 47,United States,2019,Cell phones,685.31,77
+Store 47,United States,2019,Computers,1632.13,86
+Store 47,United States,2019,Games and Toys,105.45,57
+Store 47,United States,2019,Home Appliances,1623.95,36
+Store 47,United States,2019,"Music, Movies and Audio Books",452.7,59
+Store 47,United States,2019,TV and Video,1989.08,22
+Store 47,United States,2018,Audio,485.65,48
+Store 47,United States,2018,Cameras and camcorders,1818.03,20
+Store 47,United States,2018,Cell phones,479.54,49
+Store 47,United States,2018,Computers,1231.09,70
+Store 47,United States,2018,Games and Toys,76.12,29
+Store 47,United States,2018,Home Appliances,1185.31,31
+Store 47,United States,2018,"Music, Movies and Audio Books",285.54,45
+Store 47,United States,2018,TV and Video,1062.91,10
+Store 47,United States,2017,Audio,334.47,18
+Store 47,United States,2017,Cameras and camcorders,1973.53,7
+Store 47,United States,2017,Cell phones,654.44,17
+Store 47,United States,2017,Computers,1274.76,43
+Store 47,United States,2017,Games and Toys,109.39,14
+Store 47,United States,2017,Home Appliances,1170.48,14
+Store 47,United States,2017,"Music, Movies and Audio Books",327.83,27
+Store 47,United States,2017,TV and Video,1509.62,8
+Store 47,United States,2016,Audio,543.1,20
+Store 47,United States,2016,Cameras and camcorders,1148.58,14
+Store 47,United States,2016,Cell phones,479.64,22
+Store 47,United States,2016,Computers,1521.57,20
+Store 47,United States,2016,Games and Toys,73.21,13
+Store 47,United States,2016,Home Appliances,1545.58,21
+Store 47,United States,2016,"Music, Movies and Audio Books",453.49,25
+Store 47,United States,2016,TV and Video,1926.21,15
+Store 48,United States,2021,Audio,566.49,3
+Store 48,United States,2021,Cameras and camcorders,1836.67,3
+Store 48,United States,2021,Cell phones,399.67,3
+Store 48,United States,2021,Computers,316.0,1
+Store 48,United States,2021,Games and Toys,83.68,2
+Store 48,United States,2021,Home Appliances,1072.57,3
+Store 48,United States,2020,Audio,349.36,24
+Store 48,United States,2020,Cameras and camcorders,866.22,18
+Store 48,United States,2020,Cell phones,551.97,38
+Store 48,United States,2020,Computers,1133.79,59
+Store 48,United States,2020,Games and Toys,101.3,48
+Store 48,United States,2020,Home Appliances,1902.96,16
+Store 48,United States,2020,"Music, Movies and Audio Books",288.96,32
+Store 48,United States,2020,TV and Video,896.18,14
+Store 48,United States,2019,Audio,442.26,48
+Store 48,United States,2019,Cameras and camcorders,833.73,46
+Store 48,United States,2019,Cell phones,671.16,62
+Store 48,United States,2019,Computers,1184.94,113
+Store 48,United States,2019,Games and Toys,142.53,51
+Store 48,United States,2019,Home Appliances,1577.3,28
+Store 48,United States,2019,"Music, Movies and Audio Books",292.92,56
+Store 48,United States,2019,TV and Video,1048.43,18
+Store 48,United States,2018,Audio,325.45,33
+Store 48,United States,2018,Cameras and camcorders,476.35,13
+Store 48,United States,2018,Cell phones,659.53,42
+Store 48,United States,2018,Computers,1438.86,69
+Store 48,United States,2018,Games and Toys,62.53,34
+Store 48,United States,2018,Home Appliances,1718.27,26
+Store 48,United States,2018,"Music, Movies and Audio Books",474.34,35
+Store 48,United States,2018,TV and Video,1331.68,13
+Store 48,United States,2017,Audio,312.54,17
+Store 48,United States,2017,Cameras and camcorders,1781.01,16
+Store 48,United States,2017,Cell phones,582.85,21
+Store 48,United States,2017,Computers,1384.44,26
+Store 48,United States,2017,Games and Toys,53.72,15
+Store 48,United States,2017,Home Appliances,1218.39,40
+Store 48,United States,2017,"Music, Movies and Audio Books",346.06,33
+Store 48,United States,2017,TV and Video,1661.7,8
+Store 48,United States,2016,Audio,408.22,26
+Store 48,United States,2016,Cameras and camcorders,1505.36,18
+Store 48,United States,2016,Cell phones,854.87,18
+Store 48,United States,2016,Computers,987.33,21
+Store 48,United States,2016,Games and Toys,106.24,13
+Store 48,United States,2016,Home Appliances,5191.36,14
+Store 48,United States,2016,"Music, Movies and Audio Books",273.05,33
+Store 48,United States,2016,TV and Video,925.3,19
+Store 49,United States,2021,Audio,742.96,3
+Store 49,United States,2021,Cameras and camcorders,790.0,3
+Store 49,United States,2021,Cell phones,685.89,9
+Store 49,United States,2021,Computers,2321.13,9
+Store 49,United States,2021,Games and Toys,14.44,2
+Store 49,United States,2021,Home Appliances,179.99,1
+Store 49,United States,2021,"Music, Movies and Audio Books",211.34,5
+Store 49,United States,2020,Audio,473.1,31
+Store 49,United States,2020,Cameras and camcorders,988.74,23
+Store 49,United States,2020,Cell phones,565.65,48
+Store 49,United States,2020,Computers,1276.71,55
+Store 49,United States,2020,Games and Toys,130.08,41
+Store 49,United States,2020,Home Appliances,1134.89,11
+Store 49,United States,2020,"Music, Movies and Audio Books",362.7,36
+Store 49,United States,2020,TV and Video,1360.25,11
+Store 49,United States,2019,Audio,426.7,65
+Store 49,United States,2019,Cameras and camcorders,1131.15,46
+Store 49,United States,2019,Cell phones,806.56,75
+Store 49,United States,2019,Computers,1235.69,136
+Store 49,United States,2019,Games and Toys,79.41,64
+Store 49,United States,2019,Home Appliances,1920.42,33
+Store 49,United States,2019,"Music, Movies and Audio Books",410.58,66
+Store 49,United States,2019,TV and Video,2842.14,24
+Store 49,United States,2018,Audio,398.39,36
+Store 49,United States,2018,Cameras and camcorders,2049.01,18
+Store 49,United States,2018,Cell phones,571.52,32
+Store 49,United States,2018,Computers,1266.9,56
+Store 49,United States,2018,Games and Toys,138.66,20
+Store 49,United States,2018,Home Appliances,1783.13,24
+Store 49,United States,2018,"Music, Movies and Audio Books",416.5,41
+Store 49,United States,2018,TV and Video,2755.44,17
+Store 50,United States,2021,Audio,699.88,2
+Store 50,United States,2021,Cameras and camcorders,1302.67,3
+Store 50,United States,2021,Cell phones,101.65,3
+Store 50,United States,2021,Computers,1124.98,5
+Store 50,United States,2021,Games and Toys,36.05,3
+Store 50,United States,2021,"Music, Movies and Audio Books",345.82,5
+Store 50,United States,2021,TV and Video,3992.0,1
+Store 50,United States,2020,Audio,409.84,22
+Store 50,United States,2020,Cameras and camcorders,1617.36,27
+Store 50,United States,2020,Cell phones,593.21,62
+Store 50,United States,2020,Computers,1938.58,64
+Store 50,United States,2020,Games and Toys,114.13,47
+Store 50,United States,2020,Home Appliances,2467.75,19
+Store 50,United States,2020,"Music, Movies and Audio Books",346.05,49
+Store 50,United States,2020,TV and Video,1261.05,13
+Store 50,United States,2019,Audio,441.89,50
+Store 50,United States,2019,Cameras and camcorders,1210.74,44
+Store 50,United States,2019,Cell phones,536.68,81
+Store 50,United States,2019,Computers,1076.73,112
+Store 50,United States,2019,Games and Toys,88.97,82
+Store 50,United States,2019,Home Appliances,2368.27,28
+Store 50,United States,2019,"Music, Movies and Audio Books",347.97,61
+Store 50,United States,2019,TV and Video,2203.73,18
+Store 50,United States,2018,Audio,490.14,51
+Store 50,United States,2018,Cameras and camcorders,1402.15,21
+Store 50,United States,2018,Cell phones,513.02,51
+Store 50,United States,2018,Computers,1412.97,92
+Store 50,United States,2018,Games and Toys,127.59,33
+Store 50,United States,2018,Home Appliances,2033.59,46
+Store 50,United States,2018,"Music, Movies and Audio Books",294.51,54
+Store 50,United States,2018,TV and Video,1442.96,19
+Store 50,United States,2017,Audio,544.93,32
+Store 50,United States,2017,Cameras and camcorders,1522.13,16
+Store 50,United States,2017,Cell phones,535.09,22
+Store 50,United States,2017,Computers,1318.24,47
+Store 50,United States,2017,Games and Toys,142.0,19
+Store 50,United States,2017,Home Appliances,2096.14,31
+Store 50,United States,2017,"Music, Movies and Audio Books",294.47,31
+Store 50,United States,2017,TV and Video,1514.04,16
+Store 50,United States,2016,Audio,471.66,18
+Store 50,United States,2016,Cameras and camcorders,962.56,10
+Store 50,United States,2016,Cell phones,439.99,13
+Store 50,United States,2016,Computers,1034.49,22
+Store 50,United States,2016,Games and Toys,83.41,9
+Store 50,United States,2016,Home Appliances,1532.14,28
+Store 50,United States,2016,"Music, Movies and Audio Books",340.9,23
+Store 50,United States,2016,TV and Video,2735.17,14
+Store 51,United States,2021,Audio,367.32,3
+Store 51,United States,2021,Cameras and camcorders,312.0,1
+Store 51,United States,2021,Cell phones,35.99,1
+Store 51,United States,2021,Computers,1015.23,4
+Store 51,United States,2021,Games and Toys,23.71,4
+Store 51,United States,2021,Home Appliances,541.99,3
+Store 51,United States,2021,"Music, Movies and Audio Books",418.65,3
+Store 51,United States,2021,TV and Video,554.92,2
+Store 51,United States,2020,Audio,525.59,31
+Store 51,United States,2020,Cameras and camcorders,752.0,35
+Store 51,United States,2020,Cell phones,576.54,57
+Store 51,United States,2020,Computers,1397.86,71
+Store 51,United States,2020,Games and Toys,92.69,36
+Store 51,United States,2020,Home Appliances,1357.57,18
+Store 51,United States,2020,"Music, Movies and Audio Books",313.55,42
+Store 51,United States,2020,TV and Video,1012.84,10
+Store 51,United States,2019,Audio,353.12,44
+Store 51,United States,2019,Cameras and camcorders,841.9,37
+Store 51,United States,2019,Cell phones,568.66,70
+Store 51,United States,2019,Computers,1364.31,99
+Store 51,United States,2019,Games and Toys,126.23,51
+Store 51,United States,2019,Home Appliances,1830.84,32
+Store 51,United States,2019,"Music, Movies and Audio Books",370.22,55
+Store 51,United States,2019,TV and Video,1548.67,14
+Store 51,United States,2018,Audio,319.93,27
+Store 51,United States,2018,Cameras and camcorders,1261.34,22
+Store 51,United States,2018,Cell phones,642.53,40
+Store 51,United States,2018,Computers,1295.37,74
+Store 51,United States,2018,Games and Toys,100.89,28
+Store 51,United States,2018,Home Appliances,1493.17,30
+Store 51,United States,2018,"Music, Movies and Audio Books",318.12,48
+Store 51,United States,2018,TV and Video,2364.57,16
+Store 51,United States,2017,Audio,298.56,18
+Store 51,United States,2017,Cameras and camcorders,499.8,10
+Store 51,United States,2017,Cell phones,664.16,29
+Store 51,United States,2017,Computers,1289.36,34
+Store 51,United States,2017,Games and Toys,68.1,10
+Store 51,United States,2017,Home Appliances,1702.28,32
+Store 51,United States,2017,"Music, Movies and Audio Books",351.07,28
+Store 51,United States,2017,TV and Video,912.26,14
+Store 51,United States,2016,Audio,429.23,21
+Store 51,United States,2016,Cameras and camcorders,1348.75,21
+Store 51,United States,2016,Cell phones,382.15,19
+Store 51,United States,2016,Computers,1335.51,26
+Store 51,United States,2016,Games and Toys,82.62,10
+Store 51,United States,2016,Home Appliances,1601.45,27
+Store 51,United States,2016,"Music, Movies and Audio Books",313.91,32
+Store 51,United States,2016,TV and Video,1367.28,17
+Store 53,United States,2021,Audio,94.3,3
+Store 53,United States,2021,Cameras and camcorders,1286.28,3
+Store 53,United States,2021,Cell phones,720.31,7
+Store 53,United States,2021,Computers,3804.0,5
+Store 53,United States,2021,Games and Toys,41.94,1
+Store 53,United States,2021,Home Appliances,89.97,1
+Store 53,United States,2021,"Music, Movies and Audio Books",103.02,4
+Store 53,United States,2021,TV and Video,2357.91,3
+Store 53,United States,2020,Audio,331.39,35
+Store 53,United States,2020,Cameras and camcorders,1597.01,24
+Store 53,United States,2020,Cell phones,568.55,47
+Store 53,United States,2020,Computers,1483.86,60
+Store 53,United States,2020,Games and Toys,161.86,35
+Store 53,United States,2020,Home Appliances,3486.54,11
+Store 53,United States,2020,"Music, Movies and Audio Books",315.97,32
+Store 53,United States,2020,TV and Video,2043.75,9
+Store 53,United States,2019,Audio,358.05,42
+Store 53,United States,2019,Cameras and camcorders,1148.83,39
+Store 53,United States,2019,Cell phones,490.78,75
+Store 53,United States,2019,Computers,1358.13,98
+Store 53,United States,2019,Games and Toys,107.29,48
+Store 53,United States,2019,Home Appliances,2880.07,19
+Store 53,United States,2019,"Music, Movies and Audio Books",305.17,55
+Store 53,United States,2019,TV and Video,1204.71,20
+Store 53,United States,2018,Audio,374.11,34
+Store 53,United States,2018,Cameras and camcorders,1701.11,31
+Store 53,United States,2018,Cell phones,775.86,48
+Store 53,United States,2018,Computers,1517.46,76
+Store 53,United States,2018,Games and Toys,75.52,29
+Store 53,United States,2018,Home Appliances,1791.44,33
+Store 53,United States,2018,"Music, Movies and Audio Books",255.28,40
+Store 53,United States,2018,TV and Video,972.06,15
+Store 53,United States,2017,Audio,471.91,21
+Store 53,United States,2017,Cameras and camcorders,1595.14,9
+Store 53,United States,2017,Cell phones,602.34,23
+Store 53,United States,2017,Computers,1548.03,38
+Store 53,United States,2017,Games and Toys,121.96,8
+Store 53,United States,2017,Home Appliances,833.1,21
+Store 53,United States,2017,"Music, Movies and Audio Books",400.84,23
+Store 53,United States,2017,TV and Video,2329.55,17
+Store 53,United States,2016,Audio,274.32,11
+Store 53,United States,2016,Cameras and camcorders,1059.55,13
+Store 53,United States,2016,Cell phones,725.69,13
+Store 53,United States,2016,Computers,1117.44,28
+Store 53,United States,2016,Games and Toys,66.02,13
+Store 53,United States,2016,Home Appliances,1746.08,19
+Store 53,United States,2016,"Music, Movies and Audio Books",280.22,31
+Store 53,United States,2016,TV and Video,1486.15,14
+Store 54,United States,2021,Cameras and camcorders,760.65,3
+Store 54,United States,2021,Cell phones,596.0,2
+Store 54,United States,2021,Computers,1030.83,8
+Store 54,United States,2021,Games and Toys,73.34,2
+Store 54,United States,2021,Home Appliances,1289.81,3
+Store 54,United States,2021,"Music, Movies and Audio Books",57.88,1
+Store 54,United States,2020,Audio,411.23,19
+Store 54,United States,2020,Cameras and camcorders,1628.61,28
+Store 54,United States,2020,Cell phones,538.08,51
+Store 54,United States,2020,Computers,1749.16,54
+Store 54,United States,2020,Games and Toys,88.18,42
+Store 54,United States,2020,Home Appliances,1572.49,19
+Store 54,United States,2020,"Music, Movies and Audio Books",299.92,36
+Store 54,United States,2020,TV and Video,1934.46,6
+Store 54,United States,2019,Audio,474.81,51
+Store 54,United States,2019,Cameras and camcorders,1025.76,42
+Store 54,United States,2019,Cell phones,555.94,97
+Store 54,United States,2019,Computers,1630.71,122
+Store 54,United States,2019,Games and Toys,116.36,51
+Store 54,United States,2019,Home Appliances,1850.29,35
+Store 54,United States,2019,"Music, Movies and Audio Books",377.72,74
+Store 54,United States,2019,TV and Video,1624.81,20
+Store 54,United States,2018,Audio,350.04,52
+Store 54,United States,2018,Cameras and camcorders,1199.59,22
+Store 54,United States,2018,Cell phones,545.63,51
+Store 54,United States,2018,Computers,1227.36,78
+Store 54,United States,2018,Games and Toys,91.76,33
+Store 54,United States,2018,Home Appliances,2034.33,42
+Store 54,United States,2018,"Music, Movies and Audio Books",343.79,44
+Store 54,United States,2018,TV and Video,648.23,15
+Store 54,United States,2017,Audio,418.81,47
+Store 54,United States,2017,Cameras and camcorders,366.85,10
+Store 54,United States,2017,Cell phones,623.6,35
+Store 54,United States,2017,Computers,1255.94,48
+Store 54,United States,2017,Games and Toys,106.29,12
+Store 54,United States,2017,Home Appliances,2164.16,36
+Store 54,United States,2017,"Music, Movies and Audio Books",412.87,29
+Store 54,United States,2017,TV and Video,1461.04,22
+Store 54,United States,2016,Audio,408.93,21
+Store 54,United States,2016,Cameras and camcorders,1723.72,20
+Store 54,United States,2016,Cell phones,509.34,14
+Store 54,United States,2016,Computers,1670.72,23
+Store 54,United States,2016,Games and Toys,33.93,9
+Store 54,United States,2016,Home Appliances,1925.19,24
+Store 54,United States,2016,"Music, Movies and Audio Books",292.14,34
+Store 54,United States,2016,TV and Video,2790.26,11
+Store 55,United States,2021,Audio,216.0,2
+Store 55,United States,2021,Cameras and camcorders,1956.67,6
+Store 55,United States,2021,Cell phones,842.29,11
+Store 55,United States,2021,Computers,1892.68,11
+Store 55,United States,2021,Games and Toys,172.34,6
+Store 55,United States,2021,Home Appliances,1015.33,3
+Store 55,United States,2021,"Music, Movies and Audio Books",274.93,8
+Store 55,United States,2021,TV and Video,682.82,3
+Store 55,United States,2020,Audio,381.23,29
+Store 55,United States,2020,Cameras and camcorders,1016.4,35
+Store 55,United States,2020,Cell phones,569.48,55
+Store 55,United States,2020,Computers,1648.25,58
+Store 55,United States,2020,Games and Toys,148.81,42
+Store 55,United States,2020,Home Appliances,2159.62,12
+Store 55,United States,2020,"Music, Movies and Audio Books",266.54,42
+Store 55,United States,2020,TV and Video,1177.12,14
+Store 55,United States,2019,Audio,370.38,63
+Store 55,United States,2019,Cameras and camcorders,1416.73,55
+Store 55,United States,2019,Cell phones,503.56,100
+Store 55,United States,2019,Computers,1294.45,136
+Store 55,United States,2019,Games and Toys,85.7,79
+Store 55,United States,2019,Home Appliances,1454.27,31
+Store 55,United States,2019,"Music, Movies and Audio Books",304.65,87
+Store 55,United States,2019,TV and Video,1714.31,23
+Store 55,United States,2018,Audio,473.92,39
+Store 55,United States,2018,Cameras and camcorders,1303.0,20
+Store 55,United States,2018,Cell phones,446.62,45
+Store 55,United States,2018,Computers,1548.15,73
+Store 55,United States,2018,Games and Toys,83.79,28
+Store 55,United States,2018,Home Appliances,1808.65,27
+Store 55,United States,2018,"Music, Movies and Audio Books",328.01,49
+Store 55,United States,2018,TV and Video,1565.05,17
+Store 55,United States,2017,Audio,366.96,15
+Store 55,United States,2017,Cameras and camcorders,1190.99,8
+Store 55,United States,2017,Cell phones,681.14,18
+Store 55,United States,2017,Computers,1459.18,48
+Store 55,United States,2017,Games and Toys,105.87,11
+Store 55,United States,2017,Home Appliances,2757.06,32
+Store 55,United States,2017,"Music, Movies and Audio Books",222.05,19
+Store 55,United States,2017,TV and Video,1662.82,9
+Store 55,United States,2016,Audio,365.66,16
+Store 55,United States,2016,Cameras and camcorders,1565.79,15
+Store 55,United States,2016,Cell phones,728.65,12
+Store 55,United States,2016,Computers,2049.46,20
+Store 55,United States,2016,Games and Toys,83.72,11
+Store 55,United States,2016,Home Appliances,3282.39,32
+Store 55,United States,2016,"Music, Movies and Audio Books",380.35,29
+Store 55,United States,2016,TV and Video,1070.67,14
+Store 56,United States,2021,Audio,371.91,2
+Store 56,United States,2021,Cell phones,730.59,5
+Store 56,United States,2021,Computers,1044.04,5
+Store 56,United States,2021,Games and Toys,47.5,2
+Store 56,United States,2021,Home Appliances,3115.0,1
+Store 56,United States,2021,"Music, Movies and Audio Books",227.3,3
+Store 56,United States,2021,TV and Video,2392.17,3
+Store 56,United States,2020,Audio,403.5,21
+Store 56,United States,2020,Cameras and camcorders,1000.27,18
+Store 56,United States,2020,Cell phones,619.22,45
+Store 56,United States,2020,Computers,1403.78,61
+Store 56,United States,2020,Games and Toys,115.79,44
+Store 56,United States,2020,Home Appliances,1414.66,3
+Store 56,United States,2020,"Music, Movies and Audio Books",348.93,41
+Store 56,United States,2020,TV and Video,3379.16,8
+Store 56,United States,2019,Audio,351.46,37
+Store 56,United States,2019,Cameras and camcorders,1555.62,41
+Store 56,United States,2019,Cell phones,738.55,70
+Store 56,United States,2019,Computers,1400.87,100
+Store 56,United States,2019,Games and Toys,132.84,53
+Store 56,United States,2019,Home Appliances,1321.0,28
+Store 56,United States,2019,"Music, Movies and Audio Books",369.39,54
+Store 56,United States,2019,TV and Video,1561.63,22
+Store 56,United States,2018,Audio,434.56,45
+Store 56,United States,2018,Cameras and camcorders,1236.96,20
+Store 56,United States,2018,Cell phones,523.54,53
+Store 56,United States,2018,Computers,1436.76,72
+Store 56,United States,2018,Games and Toys,64.86,22
+Store 56,United States,2018,Home Appliances,2567.04,27
+Store 56,United States,2018,"Music, Movies and Audio Books",256.12,41
+Store 56,United States,2018,TV and Video,1369.69,23
+Store 56,United States,2017,Audio,380.24,24
+Store 56,United States,2017,Cameras and camcorders,2288.3,13
+Store 56,United States,2017,Cell phones,741.15,28
+Store 56,United States,2017,Computers,1835.5,31
+Store 56,United States,2017,Games and Toys,85.04,13
+Store 56,United States,2017,Home Appliances,1356.04,32
+Store 56,United States,2017,"Music, Movies and Audio Books",446.75,29
+Store 56,United States,2017,TV and Video,1125.73,13
+Store 56,United States,2016,Audio,353.22,11
+Store 56,United States,2016,Cameras and camcorders,924.3,17
+Store 56,United States,2016,Cell phones,503.01,10
+Store 56,United States,2016,Computers,1325.13,25
+Store 56,United States,2016,Games and Toys,173.51,9
+Store 56,United States,2016,Home Appliances,2523.05,22
+Store 56,United States,2016,"Music, Movies and Audio Books",332.12,27
+Store 56,United States,2016,TV and Video,2182.85,13
+Store 57,United States,2021,Audio,1349.92,2
+Store 57,United States,2021,Cameras and camcorders,999.0,1
+Store 57,United States,2021,Cell phones,194.99,5
+Store 57,United States,2021,Computers,968.84,4
+Store 57,United States,2021,Games and Toys,64.78,5
+Store 57,United States,2021,"Music, Movies and Audio Books",302.22,4
+Store 57,United States,2021,TV and Video,436.0,1
+Store 57,United States,2020,Audio,490.94,26
+Store 57,United States,2020,Cameras and camcorders,1315.7,19
+Store 57,United States,2020,Cell phones,466.3,43
+Store 57,United States,2020,Computers,1478.07,54
+Store 57,United States,2020,Games and Toys,53.17,25
+Store 57,United States,2020,Home Appliances,3178.81,15
+Store 57,United States,2020,"Music, Movies and Audio Books",246.2,28
+Store 57,United States,2020,TV and Video,3811.39,8
+Store 57,United States,2019,Audio,447.91,66
+Store 57,United States,2019,Cameras and camcorders,1766.46,46
+Store 57,United States,2019,Cell phones,591.3,97
+Store 57,United States,2019,Computers,1499.19,120
+Store 57,United States,2019,Games and Toys,84.77,67
+Store 57,United States,2019,Home Appliances,1673.93,28
+Store 57,United States,2019,"Music, Movies and Audio Books",323.35,77
+Store 57,United States,2019,TV and Video,1506.62,18
+Store 57,United States,2018,Audio,392.22,41
+Store 57,United States,2018,Cameras and camcorders,1544.75,31
+Store 57,United States,2018,Cell phones,610.5,56
+Store 57,United States,2018,Computers,1036.92,79
+Store 57,United States,2018,Games and Toys,71.35,33
+Store 57,United States,2018,Home Appliances,2373.31,40
+Store 57,United States,2018,"Music, Movies and Audio Books",246.77,53
+Store 57,United States,2018,TV and Video,2951.35,12
+Store 57,United States,2017,Audio,351.76,20
+Store 57,United States,2017,Cameras and camcorders,971.81,11
+Store 57,United States,2017,Cell phones,654.71,20
+Store 57,United States,2017,Computers,1257.59,46
+Store 57,United States,2017,Games and Toys,95.48,10
+Store 57,United States,2017,Home Appliances,1861.4,24
+Store 57,United States,2017,"Music, Movies and Audio Books",316.41,30
+Store 57,United States,2017,TV and Video,1019.71,14
+Store 57,United States,2016,Audio,626.17,17
+Store 57,United States,2016,Cameras and camcorders,1273.52,20
+Store 57,United States,2016,Cell phones,518.23,21
+Store 57,United States,2016,Computers,756.56,21
+Store 57,United States,2016,Games and Toys,120.49,12
+Store 57,United States,2016,Home Appliances,2018.1,29
+Store 57,United States,2016,"Music, Movies and Audio Books",376.65,26
+Store 57,United States,2016,TV and Video,1285.51,17
+Store 59,United States,2021,Audio,481.35,4
+Store 59,United States,2021,Cameras and camcorders,291.46,3
+Store 59,United States,2021,Cell phones,1376.5,6
+Store 59,United States,2021,Computers,1322.7,7
+Store 59,United States,2021,Games and Toys,155.02,4
+Store 59,United States,2021,Home Appliances,429.99,1
+Store 59,United States,2021,"Music, Movies and Audio Books",285.83,5
+Store 59,United States,2021,TV and Video,279.99,1
+Store 59,United States,2020,Audio,312.85,24
+Store 59,United States,2020,Cameras and camcorders,829.42,23
+Store 59,United States,2020,Cell phones,552.13,63
+Store 59,United States,2020,Computers,1371.93,57
+Store 59,United States,2020,Games and Toys,120.94,32
+Store 59,United States,2020,Home Appliances,829.87,12
+Store 59,United States,2020,"Music, Movies and Audio Books",395.01,46
+Store 59,United States,2020,TV and Video,1141.4,16
+Store 59,United States,2019,Audio,316.23,63
+Store 59,United States,2019,Cameras and camcorders,1035.45,40
+Store 59,United States,2019,Cell phones,602.39,84
+Store 59,United States,2019,Computers,1475.65,106
+Store 59,United States,2019,Games and Toys,147.16,76
+Store 59,United States,2019,Home Appliances,1822.14,43
+Store 59,United States,2019,"Music, Movies and Audio Books",340.7,65
+Store 59,United States,2019,TV and Video,2635.73,22
+Store 59,United States,2018,Audio,481.12,46
+Store 59,United States,2018,Cameras and camcorders,1274.75,25
+Store 59,United States,2018,Cell phones,767.4,49
+Store 59,United States,2018,Computers,1316.99,62
+Store 59,United States,2018,Games and Toys,96.81,38
+Store 59,United States,2018,Home Appliances,2401.33,32
+Store 59,United States,2018,"Music, Movies and Audio Books",337.12,48
+Store 59,United States,2018,TV and Video,1494.61,18
+Store 59,United States,2017,Audio,284.48,33
+Store 59,United States,2017,Cameras and camcorders,1598.19,17
+Store 59,United States,2017,Cell phones,491.51,24
+Store 59,United States,2017,Computers,1097.9,32
+Store 59,United States,2017,Games and Toys,95.43,13
+Store 59,United States,2017,Home Appliances,2279.75,17
+Store 59,United States,2017,"Music, Movies and Audio Books",416.62,22
+Store 59,United States,2017,TV and Video,2521.69,19
+Store 59,United States,2016,Audio,469.0,22
+Store 59,United States,2016,Cameras and camcorders,1114.52,14
+Store 59,United States,2016,Cell phones,502.7,18
+Store 59,United States,2016,Computers,1610.48,40
+Store 59,United States,2016,Games and Toys,79.97,9
+Store 59,United States,2016,Home Appliances,1338.18,23
+Store 59,United States,2016,"Music, Movies and Audio Books",334.46,28
+Store 59,United States,2016,TV and Video,1683.14,20
+Store 61,United States,2021,Audio,231.98,3
+Store 61,United States,2021,Cameras and camcorders,1728.17,4
+Store 61,United States,2021,Cell phones,387.76,7
+Store 61,United States,2021,Computers,4866.35,6
+Store 61,United States,2021,Games and Toys,98.33,7
+Store 61,United States,2021,Home Appliances,459.99,1
+Store 61,United States,2021,"Music, Movies and Audio Books",748.49,7
+Store 61,United States,2020,Audio,488.56,24
+Store 61,United States,2020,Cameras and camcorders,1145.89,29
+Store 61,United States,2020,Cell phones,690.52,52
+Store 61,United States,2020,Computers,1123.79,66
+Store 61,United States,2020,Games and Toys,152.2,32
+Store 61,United States,2020,Home Appliances,2400.6,9
+Store 61,United States,2020,"Music, Movies and Audio Books",414.39,36
+Store 61,United States,2020,TV and Video,888.64,13
+Store 61,United States,2019,Audio,357.42,69
+Store 61,United States,2019,Cameras and camcorders,1362.78,38
+Store 61,United States,2019,Cell phones,698.55,87
+Store 61,United States,2019,Computers,1330.9,141
+Store 61,United States,2019,Games and Toys,106.55,64
+Store 61,United States,2019,Home Appliances,1336.09,37
+Store 61,United States,2019,"Music, Movies and Audio Books",307.06,72
+Store 61,United States,2019,TV and Video,1539.82,20
+Store 61,United States,2018,Audio,342.71,39
+Store 61,United States,2018,Cameras and camcorders,1789.64,23
+Store 61,United States,2018,Cell phones,567.02,35
+Store 61,United States,2018,Computers,1272.52,77
+Store 61,United States,2018,Games and Toys,75.92,34
+Store 61,United States,2018,Home Appliances,2795.29,34
+Store 61,United States,2018,"Music, Movies and Audio Books",325.37,53
+Store 61,United States,2018,TV and Video,1157.91,18
+Store 61,United States,2017,Audio,450.32,28
+Store 61,United States,2017,Cameras and camcorders,1434.54,15
+Store 61,United States,2017,Cell phones,969.67,26
+Store 61,United States,2017,Computers,920.75,35
+Store 61,United States,2017,Games and Toys,192.68,12
+Store 61,United States,2017,Home Appliances,1222.17,26
+Store 61,United States,2017,"Music, Movies and Audio Books",295.79,26
+Store 61,United States,2017,TV and Video,628.5,8
+Store 61,United States,2016,Audio,418.71,19
+Store 61,United States,2016,Cameras and camcorders,1813.01,21
+Store 61,United States,2016,Cell phones,515.36,21
+Store 61,United States,2016,Computers,1473.14,19
+Store 61,United States,2016,Games and Toys,160.71,14
+Store 61,United States,2016,Home Appliances,2080.81,25
+Store 61,United States,2016,"Music, Movies and Audio Books",249.33,31
+Store 61,United States,2016,TV and Video,1112.74,22
+Store 62,United States,2021,Audio,208.87,3
+Store 62,United States,2021,Cameras and camcorders,1810.86,4
+Store 62,United States,2021,Cell phones,449.16,7
+Store 62,United States,2021,Computers,2666.08,6
+Store 62,United States,2021,Games and Toys,154.0,2
+Store 62,United States,2021,Home Appliances,1092.49,3
+Store 62,United States,2021,"Music, Movies and Audio Books",276.58,5
+Store 62,United States,2021,TV and Video,2796.0,1
+Store 62,United States,2020,Audio,379.57,18
+Store 62,United States,2020,Cameras and camcorders,1093.25,20
+Store 62,United States,2020,Cell phones,628.68,45
+Store 62,United States,2020,Computers,954.71,55
+Store 62,United States,2020,Games and Toys,230.59,22
+Store 62,United States,2020,Home Appliances,2177.9,9
+Store 62,United States,2020,"Music, Movies and Audio Books",318.24,30
+Store 62,United States,2020,TV and Video,1384.57,10
+Store 62,United States,2019,Audio,387.74,42
+Store 62,United States,2019,Cameras and camcorders,1399.99,41
+Store 62,United States,2019,Cell phones,626.62,61
+Store 62,United States,2019,Computers,1686.52,82
+Store 62,United States,2019,Games and Toys,72.05,43
+Store 62,United States,2019,Home Appliances,1458.85,29
+Store 62,United States,2019,"Music, Movies and Audio Books",374.13,42
+Store 62,United States,2019,TV and Video,816.92,12
+Store 62,United States,2018,Audio,395.7,30
+Store 62,United States,2018,Cameras and camcorders,673.77,17
+Store 62,United States,2018,Cell phones,575.91,31
+Store 62,United States,2018,Computers,1358.86,37
+Store 62,United States,2018,Games and Toys,160.8,21
+Store 62,United States,2018,Home Appliances,2439.65,19
+Store 62,United States,2018,"Music, Movies and Audio Books",331.03,24
+Store 62,United States,2018,TV and Video,529.68,7
+Store 63,United States,2019,Audio,416.58,44
+Store 63,United States,2019,Cameras and camcorders,651.67,22
+Store 63,United States,2019,Cell phones,714.51,63
+Store 63,United States,2019,Computers,1501.19,81
+Store 63,United States,2019,Games and Toys,134.07,44
+Store 63,United States,2019,Home Appliances,1517.83,20
+Store 63,United States,2019,"Music, Movies and Audio Books",236.78,36
+Store 63,United States,2019,TV and Video,753.56,16
+Store 63,United States,2018,Audio,425.87,42
+Store 63,United States,2018,Cameras and camcorders,1214.64,22
+Store 63,United States,2018,Cell phones,635.4,41
+Store 63,United States,2018,Computers,1697.09,55
+Store 63,United States,2018,Games and Toys,124.15,26
+Store 63,United States,2018,Home Appliances,1135.29,33
+Store 63,United States,2018,"Music, Movies and Audio Books",389.34,35
+Store 63,United States,2018,TV and Video,2079.69,13
+Store 63,United States,2017,Audio,449.5,35
+Store 63,United States,2017,Cameras and camcorders,615.37,16
+Store 63,United States,2017,Cell phones,575.54,29
+Store 63,United States,2017,Computers,1198.63,33
+Store 63,United States,2017,Games and Toys,65.42,11
+Store 63,United States,2017,Home Appliances,1238.62,25
+Store 63,United States,2017,"Music, Movies and Audio Books",359.28,32
+Store 63,United States,2017,TV and Video,816.41,13
+Store 63,United States,2016,Audio,373.97,18
+Store 63,United States,2016,Cameras and camcorders,903.28,21
+Store 63,United States,2016,Cell phones,524.67,19
+Store 63,United States,2016,Computers,1175.61,22
+Store 63,United States,2016,Games and Toys,69.91,7
+Store 63,United States,2016,Home Appliances,2049.96,28
+Store 63,United States,2016,"Music, Movies and Audio Books",390.15,22
+Store 63,United States,2016,TV and Video,2284.93,24
+Store 64,United States,2021,Audio,506.54,2
+Store 64,United States,2021,Cameras and camcorders,2886.67,3
+Store 64,United States,2021,Cell phones,388.67,3
+Store 64,United States,2021,Computers,645.71,7
+Store 64,United States,2021,Games and Toys,248.02,4
+Store 64,United States,2021,Home Appliances,568.65,2
+Store 64,United States,2021,"Music, Movies and Audio Books",385.64,4
+Store 64,United States,2021,TV and Video,405.69,2
+Store 64,United States,2020,Audio,460.57,29
+Store 64,United States,2020,Cameras and camcorders,1744.37,32
+Store 64,United States,2020,Cell phones,592.15,39
+Store 64,United States,2020,Computers,1431.88,52
+Store 64,United States,2020,Games and Toys,85.89,33
+Store 64,United States,2020,Home Appliances,2260.9,15
+Store 64,United States,2020,"Music, Movies and Audio Books",437.05,46
+Store 64,United States,2020,TV and Video,822.42,19
+Store 64,United States,2019,Audio,423.89,60
+Store 64,United States,2019,Cameras and camcorders,915.94,44
+Store 64,United States,2019,Cell phones,663.35,68
+Store 64,United States,2019,Computers,1215.99,116
+Store 64,United States,2019,Games and Toys,73.78,54
+Store 64,United States,2019,Home Appliances,2297.78,29
+Store 64,United States,2019,"Music, Movies and Audio Books",315.77,59
+Store 64,United States,2019,TV and Video,1435.5,20
+Store 64,United States,2018,Audio,371.07,33
+Store 64,United States,2018,Cameras and camcorders,758.76,17
+Store 64,United States,2018,Cell phones,726.82,52
+Store 64,United States,2018,Computers,1666.77,70
+Store 64,United States,2018,Games and Toys,92.05,22
+Store 64,United States,2018,Home Appliances,2403.37,23
+Store 64,United States,2018,"Music, Movies and Audio Books",279.38,37
+Store 64,United States,2018,TV and Video,676.0,15
+Store 64,United States,2017,Audio,606.21,31
+Store 64,United States,2017,Cameras and camcorders,1312.45,15
+Store 64,United States,2017,Cell phones,560.01,37
+Store 64,United States,2017,Computers,1893.65,39
+Store 64,United States,2017,Games and Toys,143.29,12
+Store 64,United States,2017,Home Appliances,1305.6,19
+Store 64,United States,2017,"Music, Movies and Audio Books",438.33,25
+Store 64,United States,2017,TV and Video,751.58,16
+Store 64,United States,2016,Audio,410.56,7
+Store 64,United States,2016,Cameras and camcorders,1858.34,18
+Store 64,United States,2016,Cell phones,514.55,16
+Store 64,United States,2016,Computers,1450.92,21
+Store 64,United States,2016,Games and Toys,126.7,12
+Store 64,United States,2016,Home Appliances,2234.82,29
+Store 64,United States,2016,"Music, Movies and Audio Books",417.01,26
+Store 64,United States,2016,TV and Video,2015.42,19
+Store 65,United States,2021,Audio,349.98,2
+Store 65,United States,2021,Cameras and camcorders,917.38,6
+Store 65,United States,2021,Cell phones,355.79,5
+Store 65,United States,2021,Computers,1271.54,11
+Store 65,United States,2021,Games and Toys,95.87,5
+Store 65,United States,2021,"Music, Movies and Audio Books",611.39,4
+Store 65,United States,2021,TV and Video,238.0,1
+Store 65,United States,2020,Audio,526.03,19
+Store 65,United States,2020,Cameras and camcorders,2564.78,16
+Store 65,United States,2020,Cell phones,720.7,55
+Store 65,United States,2020,Computers,1478.53,55
+Store 65,United States,2020,Games and Toys,70.83,30
+Store 65,United States,2020,Home Appliances,661.24,9
+Store 65,United States,2020,"Music, Movies and Audio Books",370.53,30
+Store 65,United States,2020,TV and Video,1618.46,12
+Store 65,United States,2019,Audio,491.37,57
+Store 65,United States,2019,Cameras and camcorders,1258.93,35
+Store 65,United States,2019,Cell phones,581.71,89
+Store 65,United States,2019,Computers,1201.09,118
+Store 65,United States,2019,Games and Toys,104.44,64
+Store 65,United States,2019,Home Appliances,1231.07,42
+Store 65,United States,2019,"Music, Movies and Audio Books",358.57,78
+Store 65,United States,2019,TV and Video,1435.84,18
+Store 65,United States,2018,Audio,329.18,43
+Store 65,United States,2018,Cameras and camcorders,791.77,23
+Store 65,United States,2018,Cell phones,586.82,42
+Store 65,United States,2018,Computers,1353.58,67
+Store 65,United States,2018,Games and Toys,124.49,38
+Store 65,United States,2018,Home Appliances,2044.26,41
+Store 65,United States,2018,"Music, Movies and Audio Books",383.84,48
+Store 65,United States,2018,TV and Video,983.84,15
+Store 65,United States,2017,Audio,442.33,23
+Store 65,United States,2017,Cameras and camcorders,1446.78,16
+Store 65,United States,2017,Cell phones,565.59,15
+Store 65,United States,2017,Computers,1432.15,33
+Store 65,United States,2017,Games and Toys,74.41,13
+Store 65,United States,2017,Home Appliances,2366.48,27
+Store 65,United States,2017,"Music, Movies and Audio Books",486.87,16
+Store 65,United States,2017,TV and Video,2172.64,20
+Store 65,United States,2016,Audio,512.02,18
+Store 65,United States,2016,Cameras and camcorders,956.08,16
+Store 65,United States,2016,Cell phones,572.45,16
+Store 65,United States,2016,Computers,1645.75,27
+Store 65,United States,2016,Games and Toys,175.81,11
+Store 65,United States,2016,Home Appliances,1243.58,23
+Store 65,United States,2016,"Music, Movies and Audio Books",413.21,32
+Store 65,United States,2016,TV and Video,1369.43,11
+Store 66,United States,2021,Audio,263.47,5
+Store 66,United States,2021,Cameras and camcorders,1491.85,4
+Store 66,United States,2021,Cell phones,616.0,1
+Store 66,United States,2021,Computers,2345.57,3
+Store 66,United States,2021,Games and Toys,122.77,5
+Store 66,United States,2021,"Music, Movies and Audio Books",101.31,3
+Store 66,United States,2020,Audio,421.18,21
+Store 66,United States,2020,Cameras and camcorders,1812.69,20
+Store 66,United States,2020,Cell phones,538.65,56
+Store 66,United States,2020,Computers,1402.43,48
+Store 66,United States,2020,Games and Toys,110.57,29
+Store 66,United States,2020,Home Appliances,1832.42,17
+Store 66,United States,2020,"Music, Movies and Audio Books",406.07,38
+Store 66,United States,2020,TV and Video,1416.06,9
+Store 66,United States,2019,Audio,475.59,44
+Store 66,United States,2019,Cameras and camcorders,1256.9,38
+Store 66,United States,2019,Cell phones,617.36,77
+Store 66,United States,2019,Computers,1210.32,128
+Store 66,United States,2019,Games and Toys,73.11,44
+Store 66,United States,2019,Home Appliances,2518.71,41
+Store 66,United States,2019,"Music, Movies and Audio Books",378.55,77
+Store 66,United States,2019,TV and Video,2943.86,13
+Store 66,United States,2018,Audio,411.09,40
+Store 66,United States,2018,Cameras and camcorders,1605.6,18
+Store 66,United States,2018,Cell phones,759.41,34
+Store 66,United States,2018,Computers,1391.19,62
+Store 66,United States,2018,Games and Toys,143.6,24
+Store 66,United States,2018,Home Appliances,2202.27,30
+Store 66,United States,2018,"Music, Movies and Audio Books",343.83,30
+Store 66,United States,2018,TV and Video,2493.37,15
+Store 66,United States,2017,Audio,336.58,28
+Store 66,United States,2017,Cameras and camcorders,1446.82,9
+Store 66,United States,2017,Cell phones,556.74,22
+Store 66,United States,2017,Computers,1101.49,42
+Store 66,United States,2017,Games and Toys,120.04,9
+Store 66,United States,2017,Home Appliances,1339.86,25
+Store 66,United States,2017,"Music, Movies and Audio Books",398.99,27
+Store 66,United States,2017,TV and Video,896.8,15
+Store 66,United States,2016,Audio,331.1,14
+Store 66,United States,2016,Cameras and camcorders,2015.17,17
+Store 66,United States,2016,Cell phones,605.84,13
+Store 66,United States,2016,Computers,1376.68,27
+Store 66,United States,2016,Games and Toys,56.45,12
+Store 66,United States,2016,Home Appliances,963.21,19
+Store 66,United States,2016,"Music, Movies and Audio Books",378.08,23
+Store 66,United States,2016,TV and Video,1522.55,19

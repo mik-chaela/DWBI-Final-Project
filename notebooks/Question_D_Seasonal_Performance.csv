@@ -1,0 +1,65 @@
+Category,Subcategory,Season,Sales_Volume,Purchase_Frequency
+"Music, Movies and Audio Books",Movie DVD,Off-Peak (Q1-Q3),20128,5499
+Computers,Desktops,Off-Peak (Q1-Q3),14230,4003
+Audio,Bluetooth Headphones,Off-Peak (Q1-Q3),9686,2827
+"Music, Movies and Audio Books",Movie DVD,Peak Season (Q4),8674,2285
+Games and Toys,Download Games,Off-Peak (Q1-Q3),8029,2352
+Games and Toys,Boxed Games,Off-Peak (Q1-Q3),7763,2238
+Cell phones,Touch Screen Phones,Off-Peak (Q1-Q3),7464,2210
+Cell phones,Smart phones & PDAs,Off-Peak (Q1-Q3),7033,2170
+Computers,Desktops,Peak Season (Q4),6396,1748
+Audio,Recording Pen,Off-Peak (Q1-Q3),4525,1392
+Audio,Bluetooth Headphones,Peak Season (Q4),3967,1186
+TV and Video,Televisions,Off-Peak (Q1-Q3),3873,1197
+Cell phones,Home & Office Phones,Off-Peak (Q1-Q3),3735,1176
+Cell phones,Cell phones Accessories,Off-Peak (Q1-Q3),3672,1146
+Games and Toys,Download Games,Peak Season (Q4),3518,1011
+Computers,Laptops,Off-Peak (Q1-Q3),3471,1086
+Home Appliances,Water Heaters,Off-Peak (Q1-Q3),3352,1040
+Home Appliances,Microwaves,Off-Peak (Q1-Q3),3332,1029
+Computers,Projectors & Screens,Off-Peak (Q1-Q3),3320,1026
+Cameras and camcorders,Cameras & Camcorders Accessories,Off-Peak (Q1-Q3),3281,1002
+Games and Toys,Boxed Games,Peak Season (Q4),3281,964
+Computers,Computers Accessories,Off-Peak (Q1-Q3),3270,1019
+Cameras and camcorders,Camcorders,Off-Peak (Q1-Q3),3183,959
+Cell phones,Touch Screen Phones,Peak Season (Q4),3166,963
+Computers,Monitors,Off-Peak (Q1-Q3),3105,983
+Computers,"Printers, Scanners & Fax",Off-Peak (Q1-Q3),3102,976
+Cell phones,Smart phones & PDAs,Peak Season (Q4),3044,960
+Cameras and camcorders,Digital SLR Cameras,Off-Peak (Q1-Q3),3001,910
+Cameras and camcorders,Digital Cameras,Off-Peak (Q1-Q3),2993,949
+Audio,MP4&MP3,Off-Peak (Q1-Q3),2237,741
+Audio,Recording Pen,Peak Season (Q4),2092,637
+TV and Video,VCD & DVD,Off-Peak (Q1-Q3),2082,644
+TV and Video,Televisions,Peak Season (Q4),1752,526
+Home Appliances,Refrigerators,Off-Peak (Q1-Q3),1708,509
+Cell phones,Home & Office Phones,Peak Season (Q4),1697,524
+Cell phones,Cell phones Accessories,Peak Season (Q4),1666,522
+Home Appliances,Coffee Machines,Off-Peak (Q1-Q3),1541,476
+Computers,"Printers, Scanners & Fax",Peak Season (Q4),1516,455
+Computers,Laptops,Peak Season (Q4),1476,457
+Computers,Monitors,Peak Season (Q4),1458,459
+Computers,Projectors & Screens,Peak Season (Q4),1437,442
+Home Appliances,Microwaves,Peak Season (Q4),1418,449
+Computers,Computers Accessories,Peak Season (Q4),1370,446
+Cameras and camcorders,Digital Cameras,Peak Season (Q4),1314,414
+Cameras and camcorders,Digital SLR Cameras,Peak Season (Q4),1307,394
+Cameras and camcorders,Camcorders,Peak Season (Q4),1299,404
+Cameras and camcorders,Cameras & Camcorders Accessories,Peak Season (Q4),1231,377
+Home Appliances,Water Heaters,Peak Season (Q4),1211,390
+TV and Video,Car Video,Off-Peak (Q1-Q3),1052,327
+Audio,MP4&MP3,Peak Season (Q4),983,294
+TV and Video,Home Theater System,Off-Peak (Q1-Q3),974,302
+Home Appliances,Fans,Off-Peak (Q1-Q3),870,252
+Home Appliances,Washers & Dryers,Off-Peak (Q1-Q3),810,244
+Home Appliances,Lamps,Off-Peak (Q1-Q3),801,243
+TV and Video,VCD & DVD,Peak Season (Q4),791,244
+Home Appliances,Coffee Machines,Peak Season (Q4),754,241
+Home Appliances,Refrigerators,Peak Season (Q4),616,195
+Home Appliances,Air Conditioners,Off-Peak (Q1-Q3),610,207
+TV and Video,Home Theater System,Peak Season (Q4),401,128
+Home Appliances,Fans,Peak Season (Q4),371,122
+Home Appliances,Washers & Dryers,Peak Season (Q4),370,103
+Home Appliances,Lamps,Peak Season (Q4),363,122
+TV and Video,Car Video,Peak Season (Q4),311,103
+Home Appliances,Air Conditioners,Peak Season (Q4),274,102
