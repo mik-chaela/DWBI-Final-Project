@@ -2,8 +2,8 @@
 DWBI Group 5 Final Project
 
 Submitted by:
-Maria Michaela Dionson
-Joseph Michael Calunsag
+Maria Michaela Dionson  
+Joseph Michael Calunsag  
 Mirko Jankovic
 
 
