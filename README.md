@@ -1,6 +1,12 @@
 # DWBI-Final-Project
 DWBI Group 5 Final Project
 
+Submitted by:
+Maria Michaela Dionson
+Joseph Michael Calunsag
+Mirko Jankovic
+
+
 ## Setup Instructions
 
 ### 1. Install Python Dependencies
